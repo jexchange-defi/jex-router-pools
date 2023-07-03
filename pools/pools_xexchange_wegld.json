@@ -1,0 +1,205 @@
+[
+  {
+    "name": "xExchange: AERO/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzjctu8xrgn8jmfp503tajjvzz2zq60v92jpsslkh5a",
+    "tokens_in": ["AERO-458bbf", "WEGLD-bd4d79"],
+    "tokens_out": ["AERO-458bbf", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: ASH/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqp5d4x3d263x4alnapwafwujch5xqmvyq2jpsk2xhsy",
+    "tokens_in": ["ASH-a642d1", "WEGLD-bd4d79"],
+    "tokens_out": ["ASH-a642d1", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: BHAT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqp32ecg03fyxgt2pf2fsxyg4knvhfvtgz2jps6rx6gf",
+    "tokens_in": ["BHAT-c1fde3", "WEGLD-bd4d79"],
+    "tokens_out": ["BHAT-c1fde3", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: BSK/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzmjm474k89alpve4gp7x4gz25wfj4xzv2jpsy2my02",
+    "tokens_in": ["BSK-baa025", "WEGLD-bd4d79"],
+    "tokens_out": ["BSK-baa025", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: CHARGED/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqseuv52va8x22vxku0lw6nw5k9saayt42jpsr3ptyk",
+    "tokens_in": ["CHARGED-703583", "WEGLD-bd4d79"],
+    "tokens_out": ["CHARGED-703583", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: CHECKR/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqn8nsu24g9lca74fw0lus2garvhg2alfe2jpsqlysng",
+    "tokens_in": ["CHECKR-60108b", "WEGLD-bd4d79"],
+    "tokens_out": ["CHECKR-60108b", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: CRT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqf57y8m9krsvrceqxujngzm77p82zqc502jpsnnezqs",
+    "tokens_in": ["CRT-52decf", "WEGLD-bd4d79"],
+    "tokens_out": ["CRT-52decf", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: CRU/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqj6daemefdk5kjgy9rs4zsng03kezgxdm2jps3h5n07",
+    "tokens_in": ["CRU-a5f4aa", "WEGLD-bd4d79"],
+    "tokens_out": ["CRU-a5f4aa", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: CYBER/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5g7xxmpuf6nmux3r3spjxv0wleyypz8q2jpsyc3nh8",
+    "tokens_in": ["CYBER-489c1c", "WEGLD-bd4d79"],
+    "tokens_out": ["CYBER-489c1c", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: EFFORT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqtga4sxnc462aeqdpxxajs8k7pr64ltkh2jps3ewwyw",
+    "tokens_in": ["EFFORT-a13513", "WEGLD-bd4d79"],
+    "tokens_out": ["EFFORT-a13513", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: INFRA/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqc9q8acdqxz84p5p4ghc7gkrc62smjfnr2jpsd9azcd",
+    "tokens_in": ["INFRA-43985c", "WEGLD-bd4d79"],
+    "tokens_out": ["INFRA-43985c", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: ISET/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqh3c7mg0dfe5z0t3468wwp08xz3ex25ah2jpsv4pcdl",
+    "tokens_in": ["ISET-84e55e", "WEGLD-bd4d79"],
+    "tokens_out": ["ISET-84e55e", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: ITHEUM/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqpmud7t8uprrxzgu8eq2mtkl08kesflj62jps9j8dyh",
+    "tokens_in": ["ITHEUM-df6f26", "WEGLD-bd4d79"],
+    "tokens_out": ["ITHEUM-df6f26", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: KOSON/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqywcnrawk9tjurv2k9r4le25kd9as36rk2jpsnlz5c7",
+    "tokens_in": ["KOSON-5dd4fa", "WEGLD-bd4d79"],
+    "tokens_out": ["KOSON-5dd4fa", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: MEX/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqa0fsfshnff4n76jhcye6k7uvd7qacsq42jpsp6shh2",
+    "tokens_in": ["MEX-455c57", "WEGLD-bd4d79"],
+    "tokens_out": ["MEX-455c57", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: OFE/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqx6eg4kfqyw7ayktynn9wzhd6grv7p8542jpsj6y036",
+    "tokens_in": ["OFE-29eb54", "WEGLD-bd4d79"],
+    "tokens_out": ["OFE-29eb54", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: ONE/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqsw2zvzfwskwqhtkkdgtumjlj2x8mlh8e2jpsk8rpjl",
+    "tokens_in": ["ONE-f9954f", "WEGLD-bd4d79"],
+    "tokens_out": ["ONE-f9954f", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: PLATA/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqy8ufy6h4uyxzjsxe0kzfszsjd7myphzz2jpsrf7hkv",
+    "tokens_in": ["PLATA-9ba6c3", "WEGLD-bd4d79"],
+    "tokens_out": ["PLATA-9ba6c3", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: PROTEO/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqrmmtjjpafk4j3nsgeu8frn8n5mls5e802jps380mx5",
+    "tokens_in": ["PROTEO-0c7311", "WEGLD-bd4d79"],
+    "tokens_out": ["PROTEO-0c7311", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: QWT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5fj4ttp8vylx8napuuruye5rewflqr542jpsv8tauj",
+    "tokens_in": ["QWT-46ac01", "WEGLD-bd4d79"],
+    "tokens_out": ["QWT-46ac01", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: RIDE/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqav09xenkuqsdyeyy5evqyhuusvu4gl3t2jpss57g8x",
+    "tokens_in": ["RIDE-7d18e9", "WEGLD-bd4d79"],
+    "tokens_out": ["RIDE-7d18e9", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: SFIT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqw382rcxku8adtwahlq2pdstdvfwf4wa72jpssz8c8s",
+    "tokens_in": ["SFIT-aebc90", "WEGLD-bd4d79"],
+    "tokens_out": ["SFIT-aebc90", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: SUPER/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqdx6z3sauy49c5k6c6lwhjqclrfwlxlud2jpsvwj5dp",
+    "tokens_in": ["SUPER-507aa6", "WEGLD-bd4d79"],
+    "tokens_out": ["SUPER-507aa6", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: UTK/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0lzzvt2faev4upyf586tg38s84d7zsaj2jpsglugga",
+    "tokens_in": ["UTK-2f80e9", "WEGLD-bd4d79"],
+    "tokens_out": ["UTK-2f80e9", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: WAM/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq4ym2z7j0cj6efnm892w09dx7khutaj0h2jpsyxawn5",
+    "tokens_in": ["WAM-510e42", "WEGLD-bd4d79"],
+    "tokens_out": ["WAM-510e42", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: WBTC/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqq6y660esmedtm0neqwgkddfezuys68k42jps7pu0r9",
+    "tokens_in": ["WBTC-5349b3", "WEGLD-bd4d79"],
+    "tokens_out": ["WBTC-5349b3", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: WETH/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqt0uek344kaerr4gf9g2r8l0f4l8ygyha2jps82u9r6",
+    "tokens_in": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "tokens_out": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: WEGLD/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+    "tokens_in": ["USDC-c76f1f", "WEGLD-bd4d79"],
+    "tokens_out": ["USDC-c76f1f", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: ZPAY/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqtjhhs49h0q2ncld64l3thtk7s7yuw47v2jps8emt0v",
+    "tokens_in": ["ZPAY-247875", "WEGLD-bd4d79"],
+    "tokens_out": ["ZPAY-247875", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  }
+]

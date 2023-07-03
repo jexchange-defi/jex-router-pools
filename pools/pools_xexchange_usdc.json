@@ -1,0 +1,156 @@
+[
+  {
+    "name": "xExchange: USDC/CPA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzy0s7c6mdj78q9nl4hspky8kjg7njm2p2jpsp4fs39",
+    "tokens_in": ["USDC-c76f1f", "CPA-97530a"],
+    "tokens_out": ["USDC-c76f1f", "CPA-97530a"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/DEAD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqgp7mqy3e4fufauvk08gs6ylcdt7nt7sc2jps59efyx",
+    "tokens_in": ["USDC-c76f1f", "DEAD-4c133a"],
+    "tokens_out": ["USDC-c76f1f", "DEAD-4c133a"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/EFOO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqjz0jwz73e8u7s0hu2y5qqeu8phm5d4f92jpsdu5qhw",
+    "tokens_in": ["USDC-c76f1f", "EFOO-8fe2d4"],
+    "tokens_out": ["USDC-c76f1f", "EFOO-8fe2d4"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/EPUNKS",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqfgy5v2p0jddccpzgcc4a63xeflmgnlxc2jpseztlfg",
+    "tokens_in": ["USDC-c76f1f", "EPUNKS-dc0f59"],
+    "tokens_out": ["USDC-c76f1f", "EPUNKS-dc0f59"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/ESTAR",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5ncy8n4ndp3tqw82syept600p9xh6y6y2jpssraqvw",
+    "tokens_in": ["USDC-c76f1f", "ESTAR-461bab"],
+    "tokens_out": ["USDC-c76f1f", "ESTAR-461bab"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/HODL",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0d6xjg89rg7ae4xw79r6l3hwz65at3rf2jpsh9rtfh",
+    "tokens_in": ["USDC-c76f1f", "HODL-d7f4b5"],
+    "tokens_out": ["USDC-c76f1f", "HODL-d7f4b5"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/HYPE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq44ctuneycrq77yf08xswqcgzznyvt5ka2jps2ulap4",
+    "tokens_in": ["USDC-c76f1f", "HYPE-619661"],
+    "tokens_out": ["USDC-c76f1f", "HYPE-619661"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/INSTANT",
+    "sc_address": "erd1qqqqqqqqqqqqqpgquymd0zqjy4junwv2z7m7wll8vek0qz7d2jpsl4wnaq",
+    "tokens_in": ["USDC-c76f1f", "INSTANT-086961"],
+    "tokens_out": ["USDC-c76f1f", "INSTANT-086961"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/JOY",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxgnyhmrfl73g9m684zdhyn4ew86pv9tq2jpsuuduzh",
+    "tokens_in": ["USDC-c76f1f", "JOY-43bad3"],
+    "tokens_out": ["USDC-c76f1f", "JOY-43bad3"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/KOSON",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxmsngnxqf3f7upnzj59juv3x7evq2egr2jps2qfzva",
+    "tokens_in": ["USDC-c76f1f", "KOSON-5dd4fa"],
+    "tokens_out": ["USDC-c76f1f", "KOSON-5dd4fa"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/KRO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0fh349hc4hhlxh34kffg8rvcwde85ycs2jpsk6h269",
+    "tokens_in": ["USDC-c76f1f", "KRO-df97ec"],
+    "tokens_out": ["USDC-c76f1f", "KRO-df97ec"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/LAND",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqn530ruk9qkffaucewc3rnf2damhptz2r2jpszcf84t",
+    "tokens_in": ["USDC-c76f1f", "LAND-40f26f"],
+    "tokens_out": ["USDC-c76f1f", "LAND-40f26f"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/LAUNCH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqvsmpxsvnjnr7wfkkpyg8aj7vj2fv7glr2jpsmg79f4",
+    "tokens_in": ["USDC-c76f1f", "LAUNCH-3e2258"],
+    "tokens_out": ["USDC-c76f1f", "LAUNCH-3e2258"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/LEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqfw6ydg978w4r3qzx3c94el0nju3x59492jpsm8c5a9",
+    "tokens_in": ["USDC-c76f1f", "LEGLD-d74da9"],
+    "tokens_out": ["USDC-c76f1f", "LEGLD-d74da9"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/LPAD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq3nxr99z964v8yhg5akpzpnhgxqlqyxg52jpszl5x0y",
+    "tokens_in": ["USDC-c76f1f", "LPAD-84628f"],
+    "tokens_out": ["USDC-c76f1f", "LPAD-84628f"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/MID",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq9aj0amrue5s6d2q5vqvrrq0vve259vp92jpsgut3vl",
+    "tokens_in": ["USDC-c76f1f", "MID-ecb7bf"],
+    "tokens_out": ["USDC-c76f1f", "MID-ecb7bf"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/MOOVE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqc08d6g76d2tg43hmn7p4p4csk86ed5ac2jpspyv865",
+    "tokens_in": ["USDC-c76f1f", "MOOVE-875539"],
+    "tokens_out": ["USDC-c76f1f", "MOOVE-875539"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/PROTEO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqyh679eqagu9evhhe2zl8mjflcasfdvaf2jpsqsakyc",
+    "tokens_in": ["USDC-c76f1f", "PROTEO-0c7311"],
+    "tokens_out": ["USDC-c76f1f", "PROTEO-0c7311"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/RARE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqjz5k2a7ed2xtd0d92zt0j8e7aap70y7g2jpsjz5z4r",
+    "tokens_in": ["USDC-c76f1f", "RARE-99e8b0"],
+    "tokens_out": ["USDC-c76f1f", "RARE-99e8b0"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/VITAL",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq3ahw8fctzfnwgvq2g4hjsqzkkvgl9ksr2jps646dnj",
+    "tokens_in": ["USDC-c76f1f", "VITAL-ab7917"],
+    "tokens_out": ["USDC-c76f1f", "VITAL-ab7917"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/XAPES",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqfr3xr3fptq8h63mzjjvqdtc2hzq59hdk2jpsu8rc88",
+    "tokens_in": ["USDC-c76f1f", "XAPES-1d15a5"],
+    "tokens_out": ["USDC-c76f1f", "XAPES-1d15a5"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/ZOG",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqn0qsa47m96ys0ykst8v4axxa80kcex4v2jpsgqryaa",
+    "tokens_in": ["USDC-c76f1f", "ZOG-c66239"],
+    "tokens_out": ["USDC-c76f1f", "ZOG-c66239"],
+    "type": "xexchange"
+  }
+]

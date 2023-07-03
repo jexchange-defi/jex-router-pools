@@ -1,0 +1,99 @@
+[
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["ONE-f9954f", "WBTC-5349b3"],
+    "tokens_out": ["ONE-f9954f", "WBTC-5349b3"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["ONE-f9954f", "WETH-b4ca29"],
+    "tokens_out": ["ONE-f9954f", "WETH-b4ca29"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["ONE-f9954f", "WEGLD-bd4d79"],
+    "tokens_out": ["ONE-f9954f", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
+    "tokens_out": ["USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": [
+      "CPA-97530a",
+      "CTP-298075",
+      "EBUD-d29cce",
+      "ECPX-5cbfeb",
+      "EFOO-8fe2d4",
+      "ESTAR-461bab",
+      "GCC-3194ab",
+      "HODL-b8bd81",
+      "JEX-9040ca",
+      "JOY-43bad3",
+      "LEGLD-d74da9",
+      "MERMAID-9c388a",
+      "MPH-f8ea2b",
+      "PEPE-8ef042",
+      "PLATA-9ba6c3",
+      "RARE-99e8b0",
+      "TTG-1abcec",
+      "UPARK-982dd6",
+      "WAGMI-3f803d",
+      "XAPES-1d15a5",
+      "XBIT-630969",
+      "XBONK-7cde03",
+      "ZOG-c66239"
+    ],
+    "tokens_out": ["WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["WEGLD-bd4d79"],
+    "tokens_out": [
+      "CPA-97530a",
+      "CTP-298075",
+      "EBUD-d29cce",
+      "ECPX-5cbfeb",
+      "EFOO-8fe2d4",
+      "ESTAR-461bab",
+      "GCC-3194ab",
+      "HODL-b8bd81",
+      "JEX-9040ca",
+      "JOY-43bad3",
+      "LEGLD-d74da9",
+      "MERMAID-9c388a",
+      "MPH-f8ea2b",
+      "PEPE-8ef042",
+      "PLATA-9ba6c3",
+      "RARE-99e8b0",
+      "TTG-1abcec",
+      "UPARK-982dd6",
+      "WAGMI-3f803d",
+      "XAPES-1d15a5",
+      "XBIT-630969",
+      "XBONK-7cde03",
+      "ZOG-c66239"
+    ],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex (MPH-USDC)",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["MPH-f8ea2b", "USDC-c76f1f"],
+    "tokens_out": ["MPH-f8ea2b", "USDC-c76f1f"],
+    "type": "onedex"
+  }
+]
