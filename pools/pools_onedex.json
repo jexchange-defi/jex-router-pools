@@ -93,7 +93,7 @@
     "tokens_in": ["MPH-f8ea2b", "USDC-c76f1f"],
     "tokens_out": ["MPH-f8ea2b", "USDC-c76f1f"],
     "type": "onedex"
-  }
+  },
 
     {
     "name": "OneDex (MPH-WEGLD)",
