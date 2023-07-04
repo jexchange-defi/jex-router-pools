@@ -43,7 +43,6 @@
       "JOY-43bad3",
       "LEGLD-d74da9",
       "MERMAID-9c388a",
-      "MPH-f8ea2b",
       "PEPE-8ef042",
       "PLATA-9ba6c3",
       "RARE-99e8b0",
@@ -75,7 +74,6 @@
       "JOY-43bad3",
       "LEGLD-d74da9",
       "MERMAID-9c388a",
-      "MPH-f8ea2b",
       "PEPE-8ef042",
       "PLATA-9ba6c3",
       "RARE-99e8b0",
@@ -94,6 +92,14 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["MPH-f8ea2b", "USDC-c76f1f"],
     "tokens_out": ["MPH-f8ea2b", "USDC-c76f1f"],
+    "type": "onedex"
+  },
+
+    {
+    "name": "OneDex (MPH-WEGLD)",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["MPH-f8ea2b", "WEGLD-bd4d79"],
+    "tokens_out": ["MPH-f8ea2b", "WEGLD-bd4d79"],
     "type": "onedex"
   }
 ]
