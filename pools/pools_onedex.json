@@ -94,12 +94,18 @@
     "tokens_out": ["MPH-f8ea2b", "USDC-c76f1f"],
     "type": "onedex"
   },
-
   {
     "name": "OneDex: MPH/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["MPH-f8ea2b", "WEGLD-bd4d79"],
     "tokens_out": ["MPH-f8ea2b", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
+    "name": "OneDex: XLH/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["ONE-f9954f", "XLH-8daa50"],
+    "tokens_out": ["ONE-f9954f", "XLH-8daa50"],
     "type": "onedex"
   }
 ]
