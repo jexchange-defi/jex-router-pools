@@ -1,0 +1,23 @@
+[
+  {
+    "name": "VestaDex: VEGLD/KOSON",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqwj84u3ts3rhx03sek0emhaykztx4jugd0a0stm5tp3",
+    "tokens_in": ["VEGLD-2b9319", "KOSON-5dd4fa"],
+    "tokens_out": ["VEGLD-2b9319", "KOSON-5dd4fa"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
+    "tokens_in": ["VEGLD-2b9319", "USDC-c76f1f"],
+    "tokens_out": ["VEGLD-2b9319", "USDC-c76f1f"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/XLH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqyp9d9dz5cyxffwq9k9e8kyfv4hue3w40a0sjfdrl9",
+    "tokens_in": ["VEGLD-2b9319", "XLH-8daa50"],
+    "tokens_out": ["VEGLD-2b9319", "XLH-8daa50"],
+    "type": "vestadex"
+  }
+]
