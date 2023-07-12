@@ -88,6 +88,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: BFY/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["BFY-8344ff", "WEGLD-bd4d79"],
+    "tokens_out": ["BFY-8344ff", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: MPH/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["MPH-f8ea2b", "USDC-c76f1f"],
