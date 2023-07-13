@@ -28,6 +28,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: BUSD/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqylnj3nm3tf2mslychjjsfvmv806fxwwk2jpsvscxzd",
+    "tokens_in": ["BUSD-40b57e", "WEGLD-bd4d79"],
+    "tokens_out": ["BUSD-40b57e", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: CHARGED/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqseuv52va8x22vxku0lw6nw5k9saayt42jpsr3ptyk",
     "tokens_in": ["CHARGED-703583", "WEGLD-bd4d79"],
@@ -158,6 +165,13 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqdx6z3sauy49c5k6c6lwhjqclrfwlxlud2jpsvwj5dp",
     "tokens_in": ["SUPER-507aa6", "WEGLD-bd4d79"],
     "tokens_out": ["SUPER-507aa6", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDT/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5crkgmnhyj64gp2u0kzlxxh2nvz9dpav2jpswrfu6h",
+    "tokens_in": ["USDT-f8c08c", "WEGLD-bd4d79"],
+    "tokens_out": ["USDT-f8c08c", "WEGLD-bd4d79"],
     "type": "xexchange"
   },
   {
