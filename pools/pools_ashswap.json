@@ -1,5 +1,12 @@
 [
   {
+    "name": "AshSwap: SEGLD/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqaf8fzwmas77xxr7qwnxd6j3qsctv55e74fvsmvq675",
+    "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "tokens_out": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: USDC/USDT/BUSD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
     "tokens_in": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
