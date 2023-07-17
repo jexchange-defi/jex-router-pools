@@ -1,5 +1,12 @@
 [
   {
+    "name": "AshSwap: HSEGLD/SEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqhvj3vgwhzg26ghaseae6ehleq0r73xd24fvs358shm",
+    "tokens_in": ["SEGLD-3ad2d0", "HSEGLD-c13a4e"],
+    "tokens_out": ["SEGLD-3ad2d0", "HSEGLD-c13a4e"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: SEGLD/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqaf8fzwmas77xxr7qwnxd6j3qsctv55e74fvsmvq675",
     "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
