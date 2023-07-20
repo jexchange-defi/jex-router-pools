@@ -77,6 +77,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: HTM/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxhgs55hpdqll93nnvf0nwnt3wmh62u692jps5wm8uj",
+    "tokens_in": ["HTM-f51d55", "WEGLD-bd4d79"],
+    "tokens_out": ["HTM-f51d55", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: INFRA/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqc9q8acdqxz84p5p4ghc7gkrc62smjfnr2jpsd9azcd",
     "tokens_in": ["INFRA-43985c", "WEGLD-bd4d79"],
