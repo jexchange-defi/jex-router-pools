@@ -1,5 +1,26 @@
 [
   {
+    "name": "VestaDex: USDC/OURA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
+    "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/CPA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqd2ge8gnedu0xesy9f7zq4fxhcefe56nz0a0supupwx",
+    "tokens_in": ["VEGLD-2b9319", "CPA-97530a"],
+    "tokens_out": ["VEGLD-2b9319", "CPA-97530a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/SUPER",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxgkkukrka9znm34wqsmvr5d2pm3ch38g0a0sdwu92p",
+    "tokens_in": ["VEGLD-2b9319", "SUPER-507aa6"],
+    "tokens_out": ["VEGLD-2b9319", "SUPER-507aa6"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: VEGLD/KOSON",
     "sc_address": "erd1qqqqqqqqqqqqqpgqwj84u3ts3rhx03sek0emhaykztx4jugd0a0stm5tp3",
     "tokens_in": ["VEGLD-2b9319", "KOSON-5dd4fa"],
@@ -11,6 +32,13 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
     "tokens_in": ["VEGLD-2b9319", "USDC-c76f1f"],
     "tokens_out": ["VEGLD-2b9319", "USDC-c76f1f"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/VST",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqyzaermw7mvtps23zq0gca625gd3pqrft0a0s4jw4ax",
+    "tokens_in": ["VEGLD-2b9319", "VST-c40502"],
+    "tokens_out": ["VEGLD-2b9319", "VST-c40502"],
     "type": "vestadex"
   },
   {

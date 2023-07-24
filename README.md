@@ -23,6 +23,7 @@ A pool is a JSON structure composed of:
   * "jexchange" = JEXchange orderbook
   * "jexchange_lp" = JEXchange liquidity pools
   * "onedex"
+  * "vestadex"
   * "xexchange"
 
 Examples:

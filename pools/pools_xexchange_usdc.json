@@ -119,6 +119,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: USDC/OURO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqhrcs7n3q52uejgupmtrzntr04pmjnh7h2jpsu6262q",
+    "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/PROTEO",
     "sc_address": "erd1qqqqqqqqqqqqqpgqyh679eqagu9evhhe2zl8mjflcasfdvaf2jpsqsakyc",
     "tokens_in": ["USDC-c76f1f", "PROTEO-0c7311"],
