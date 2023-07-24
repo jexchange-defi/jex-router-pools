@@ -1,6 +1,6 @@
 [
   {
-    "name": "VestaDex: USDC/OURA",
+    "name": "VestaDex: USDC/OURO",
     "sc_address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
     "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
     "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
