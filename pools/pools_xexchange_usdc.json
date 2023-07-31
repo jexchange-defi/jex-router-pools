@@ -140,6 +140,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: USDC/TTG",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlcglp4820t2jt0lwdcc2emmlg9x3rsuk2jps8gjfyt",
+    "tokens_in": ["USDC-c76f1f", "TTG-1abcec"],
+    "tokens_out": ["USDC-c76f1f", "TTG-1abcec"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/VITAL",
     "sc_address": "erd1qqqqqqqqqqqqqpgq3ahw8fctzfnwgvq2g4hjsqzkkvgl9ksr2jps646dnj",
     "tokens_in": ["USDC-c76f1f", "VITAL-ab7917"],
