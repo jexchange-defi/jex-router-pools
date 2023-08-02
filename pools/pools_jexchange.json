@@ -58,7 +58,6 @@
       "BONEZ-ff9a73",
       "BTX-0f676d",
       "C23-1325d3",
-      "CHARGED-703583",
       "DICE-9749cc",
       "DKM-592719",
       "EBUD-d29cce",
@@ -70,7 +69,6 @@
       "GIANT-761d27",
       "GNG-8735ae",
       "HERBS-1c45fb",
-      "HTM-f51d55",
       "JIASH-a6ae7a",
       "JIBUSD-9d7082",
       "JIEGLD-f6f180",
@@ -88,7 +86,7 @@
       "SPROTEO-c2dffe",
       "TOLKEN-a9eb7f",
       "WHALE-b018f0",
-      "XLH-8daa50"
+      "ZAYA-024622"
     ],
     "type": "jexchange"
   },
@@ -101,7 +99,6 @@
       "BONEZ-ff9a73",
       "BTX-0f676d",
       "C23-1325d3",
-      "CHARGED-703583",
       "DICE-9749cc",
       "DKM-592719",
       "EFTR-315177",
@@ -112,7 +109,6 @@
       "GIANT-761d27",
       "GNG-8735ae",
       "HERBS-1c45fb",
-      "HTM-f51d55",
       "JIASH-a6ae7a",
       "JIBUSD-9d7082",
       "JIEGLD-f6f180",
@@ -130,7 +126,7 @@
       "SPROTEO-c2dffe",
       "TOLKEN-a9eb7f",
       "WHALE-b018f0",
-      "XLH-8daa50"
+      "ZAYA-024622"
     ],
     "tokens_out": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
     "type": "jexchange"
