@@ -1,5 +1,19 @@
 [
   {
+    "name": "AshSwap: ASH/JWLASH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlc8ng44k7q3s7l62cz248nkmhltm8cg64fvsfq2xht",
+    "tokens_in": ["ASH-a642d1", "JWLASH-f362b9"],
+    "tokens_out": ["ASH-a642d1", "JWLASH-f362b9"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: EGLD/JWLEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqa60cy30kdzzd8mygg20zhe4ppfhrp0tv4fvs9vd4hp",
+    "tokens_in": ["ASH-a642d1", "JWLEGLD-023462"],
+    "tokens_out": ["ASH-a642d1", "JWLEGLD-023462"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: HSEGLD/SEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqhvj3vgwhzg26ghaseae6ehleq0r73xd24fvs358shm",
     "tokens_in": ["SEGLD-3ad2d0", "HSEGLD-c13a4e"],
