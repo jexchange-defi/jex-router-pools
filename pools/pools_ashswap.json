@@ -9,8 +9,8 @@
   {
     "name": "AshSwap: EGLD/JWLEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqa60cy30kdzzd8mygg20zhe4ppfhrp0tv4fvs9vd4hp",
-    "tokens_in": ["ASH-a642d1", "JWLEGLD-023462"],
-    "tokens_out": ["ASH-a642d1", "JWLEGLD-023462"],
+    "tokens_in": ["WEGLD-bd4d79", "JWLEGLD-023462"],
+    "tokens_out": ["WEGLD-bd4d79", "JWLEGLD-023462"],
     "type": "ashswap_stablepool"
   },
   {
