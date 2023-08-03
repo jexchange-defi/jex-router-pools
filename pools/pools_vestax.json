@@ -1,0 +1,9 @@
+[
+  {
+    "name": "VestaX: stake",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqawus4zu5w2frmhh9rscjqnu9x6msfjya2d2sfw7tsn",
+    "tokens_in": ["WEGLD-bd4d79"],
+    "tokens_out": ["VEGLD-2b9319"],
+    "type": "vestax_stake"
+  }
+]
