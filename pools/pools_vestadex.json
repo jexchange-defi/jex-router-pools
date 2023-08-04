@@ -1,5 +1,12 @@
 [
   {
+    "name": "VestaDex: USDC/GSC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqtcwe86lz2zpp4gne6hld7arenrlal2hw0a0skaqsk4",
+    "tokens_in": ["USDC-c76f1f", "GSC-08cbdb"],
+    "tokens_out": ["USDC-c76f1f", "GSC-08cbdb"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: USDC/OURO",
     "sc_address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
     "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
