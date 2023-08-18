@@ -102,6 +102,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: MINNIE/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["MINNIE-b45403", "USDC-c76f1f"],
+    "tokens_out": ["MINNIE-b45403", "USDC-c76f1f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: MPH/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["MPH-f8ea2b", "USDC-c76f1f"],
