@@ -63,6 +63,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: CUMB/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq4us6x6jxgtrvqelnmuk0m2crvl2qcewg2jpsn30ye6",
+    "tokens_in": ["CUMB-8b7006", "WEGLD-bd4d79"],
+    "tokens_out": ["CUMB-8b7006", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: CYBER/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5g7xxmpuf6nmux3r3spjxv0wleyypz8q2jpsyc3nh8",
     "tokens_in": ["CYBER-489c1c", "WEGLD-bd4d79"],
