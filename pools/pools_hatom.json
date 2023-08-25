@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Hatom: stake",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq4gzfcw7kmkjy8zsf04ce6dl0auhtzjx078sslvrf4e",
+    "tokens_in": ["WEGLD-bd4d79"],
+    "tokens_out": ["SEGLD-3ad2d0"],
+    "type": "hatom_stake"
+  }
+]
