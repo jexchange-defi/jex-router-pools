@@ -5,5 +5,19 @@
     "tokens_in": ["WEGLD-bd4d79"],
     "tokens_out": ["SEGLD-3ad2d0"],
     "type": "hatom_stake"
+  },
+  {
+    "name": "Hatom: MM sEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxmn4jlazsjp6gnec95423egatwcdfcjm78ss5q550k",
+    "tokens_in": ["SEGLD-3ad2d0"],
+    "tokens_out": ["HSEGLD-c13a4e"],
+    "type": "hatom_money_market_mint"
+  },
+  {
+    "name": "Hatom: MM sEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxmn4jlazsjp6gnec95423egatwcdfcjm78ss5q550k",
+    "tokens_in": ["HSEGLD-c13a4e"],
+    "tokens_out": ["SEGLD-3ad2d0"],
+    "type": "hatom_money_market_redeem"
   }
 ]
