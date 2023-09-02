@@ -7,6 +7,13 @@
     "type": "ashswap_stablepool"
   },
   {
+    "name": "AshSwap: EGLD/CGO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqpa9yh80fm9zad85phkuhr4cm323my5k94fvsxf5akw",
+    "tokens_in": ["CGO-5e9528", "WEGLD-bd4d79"],
+    "tokens_out": ["CGO-5e9528", "WEGLD-bd4d79"],
+    "type": "ashswap_v2"
+  },
+  {
     "name": "AshSwap: EGLD/JWLEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqa60cy30kdzzd8mygg20zhe4ppfhrp0tv4fvs9vd4hp",
     "tokens_in": ["WEGLD-bd4d79", "JWLEGLD-023462"],
