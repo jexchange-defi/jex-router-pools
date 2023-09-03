@@ -84,13 +84,6 @@
     "type": "jexchange_lp_withdraw"
   },
   {
-    "name": "JEXchange LP",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqql7m4r362c5wrwgdvms3dt9xnxcgq9vt6avsru7w46",
-    "tokens_in": ["JIUSDT-bcef75", "USDT-f8c08c"],
-    "tokens_out": ["JIUSDT-bcef75", "USDT-f8c08c"],
-    "type": "jexchange_lp"
-  },
-  {
     "name": "JEXchange orderbook",
     "sc_address": "erd1qqqqqqqqqqqqqpgqmmxzmktd09gq0hldtczerlv444ykt3pz6avsnys6m9",
     "tokens_in": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
