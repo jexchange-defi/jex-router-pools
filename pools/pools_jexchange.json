@@ -29,6 +29,20 @@
   },
   {
     "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
+    "tokens_in": ["JEX-9040ca", "USDT-f8c08c"],
+    "tokens_out": ["LPJEXUSDT-732142"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
+    "tokens_in": ["LPJEXUSDT-732142"],
+    "tokens_out": ["JEX-9040ca", "USDT-f8c08c"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
+    "name": "JEXchange LP",
     "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
     "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
     "tokens_out": ["JEX-9040ca", "WEGLD-bd4d79"],
@@ -36,10 +50,38 @@
   },
   {
     "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
+    "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
+    "tokens_out": ["LPJEXWEGLD-2bccc4"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
+    "tokens_in": ["LPJEXWEGLD-2bccc4"],
+    "tokens_out": ["JEX-9040ca", "WEGLD-bd4d79"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
+    "name": "JEXchange LP",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
     "tokens_in": ["JEX-9040ca", "WETH-b4ca29"],
     "tokens_out": ["JEX-9040ca", "WETH-b4ca29"],
     "type": "jexchange_lp"
+  },
+  {
+    "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
+    "tokens_in": ["JEX-9040ca", "WETH-b4ca29"],
+    "tokens_out": ["LPJEXWETH-2a2e52"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange LP",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
+    "tokens_in": ["LPJEXWETH-2a2e52"],
+    "tokens_out": ["JEX-9040ca", "WETH-b4ca29"],
+    "type": "jexchange_lp_withdraw"
   },
   {
     "name": "JEXchange LP",
