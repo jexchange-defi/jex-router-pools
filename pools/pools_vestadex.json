@@ -1,5 +1,19 @@
 [
   {
+    "name": "VestaDex: OURO/ESTAR",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqd9h8nsg3fhq90lgt0qs9vaz2fp9a7kfd0a0sumzha6",
+    "tokens_in": ["OURO-9ecd6a", "ESTAR-461bab"],
+    "tokens_out": ["OURO-9ecd6a", "ESTAR-461bab"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: OURO/VST",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq32yt3sk84070rf62kplc2vneugdt8t3s0a0stry9wv",
+    "tokens_in": ["OURO-9ecd6a", "VST-c40502"],
+    "tokens_out": ["OURO-9ecd6a", "VST-c40502"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: USDC/GSC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqtcwe86lz2zpp4gne6hld7arenrlal2hw0a0skaqsk4",
     "tokens_in": ["USDC-c76f1f", "GSC-08cbdb"],
@@ -18,6 +32,13 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqd2ge8gnedu0xesy9f7zq4fxhcefe56nz0a0supupwx",
     "tokens_in": ["VEGLD-2b9319", "CPA-97530a"],
     "tokens_out": ["VEGLD-2b9319", "CPA-97530a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/ESTAR",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqdkph43kvmhwunyl5v3756stjsdldfdr20a0svhahuk",
+    "tokens_in": ["VEGLD-2b9319", "ESTAR-461bab"],
+    "tokens_out": ["VEGLD-2b9319", "ESTAR-461bab"],
     "type": "vestadex"
   },
   {
