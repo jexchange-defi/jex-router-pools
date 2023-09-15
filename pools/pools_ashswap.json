@@ -28,7 +28,7 @@
     "type": "ashswap_stablepool"
   },
   {
-    "name": "AshSwap: SEGLD/WEGLD",
+    "name": "AshSwap: SEGLD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqaf8fzwmas77xxr7qwnxd6j3qsctv55e74fvsmvq675",
     "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
     "tokens_out": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
@@ -56,7 +56,7 @@
     "type": "ashswap_stablepool_withdraw"
   },
   {
-    "name": "AshSwap: BUSD/WEGLD",
+    "name": "AshSwap: BUSD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5l05l0ts4lphdktx33apl0ss9rzf4r244fvsva6j53",
     "tokens_in": ["BUSD-40b57e", "WEGLD-bd4d79"],
     "tokens_out": ["BUSD-40b57e", "WEGLD-bd4d79"],
