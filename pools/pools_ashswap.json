@@ -28,10 +28,24 @@
     "type": "ashswap_stablepool"
   },
   {
+    "name": "AshSwap: HTM/JWLHTM",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqcaaahzjqgzhcpqjnlgcn0cx03pr9wg754fvshd6qhv",
+    "tokens_in": ["HTM-f51d55", "JWLHTM-8e3cd5"],
+    "tokens_out": ["HTM-f51d55", "JWLHTM-8e3cd5"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: SEGLD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqaf8fzwmas77xxr7qwnxd6j3qsctv55e74fvsmvq675",
     "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
     "tokens_out": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: SEGLD/JWLEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlsgfr6xteusallzcspt3ehp8cewlp3s04fvsjm87cw",
+    "tokens_in": ["SEGLD-3ad2d0", "JWLEGLD-023462"],
+    "tokens_out": ["SEGLD-3ad2d0", "JWLEGLD-023462"],
     "type": "ashswap_stablepool"
   },
   {
