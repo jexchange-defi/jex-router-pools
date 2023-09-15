@@ -95,6 +95,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: HONK/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["HONK-bd4e39", "WEGLD-bd4d79"],
+    "tokens_out": ["HONK-bd4e39", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: HTM/WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["HTM-f51d55", "WEGLD-bd4d79"],
