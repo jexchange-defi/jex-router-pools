@@ -12,18 +12,19 @@ Add the pool in the corresponding file in [pools]() folder.
 
 A pool is a JSON structure composed of:
 
-* name = pool name
-* sc_address = address of the smart contract
-* tokens_in = list of input token identifiers
-* tokens_out = list of output token identifiers
-* type = type of pool among:
-  * "ashswap_stablepool"
-  * "ashswap_v2"
-  * "exrond"
-  * "jexchange" = JEXchange orderbook
-  * "jexchange_lp" = JEXchange liquidity pools
-  * "onedex"
-  * "xexchange"
+- name = pool name
+- sc_address = address of the smart contract
+- tokens_in = list of input token identifiers
+- tokens_out = list of output token identifiers
+- type = type of pool among:
+  - "ashswap_stablepool"
+  - "ashswap_v2"
+  - "exrond"
+  - "jexchange" = JEXchange orderbook
+  - "jexchange_lp" = JEXchange liquidity pools
+  - "onedex"
+  - "vestadex"
+  - "xexchange"
 
 Examples:
 
@@ -39,7 +40,7 @@ Examples:
 
 ```json
 {
-  "name": "xExchange: CYBER/WEGLD",
+  "name": "xExchange: CYBER/EGLD",
   "sc_address": "erd1qqqqqqqqqqqqqpgq5g7xxmpuf6nmux3r3spjxv0wleyypz8q2jpsyc3nh8",
   "tokens_in": ["CYBER-489c1c", "WEGLD-bd4d79"],
   "tokens_out": ["CYBER-489c1c", "WEGLD-bd4d79"],

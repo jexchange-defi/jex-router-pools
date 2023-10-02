@@ -119,6 +119,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: USDC/OURO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqhrcs7n3q52uejgupmtrzntr04pmjnh7h2jpsu6262q",
+    "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/PROTEO",
     "sc_address": "erd1qqqqqqqqqqqqqpgqyh679eqagu9evhhe2zl8mjflcasfdvaf2jpsqsakyc",
     "tokens_in": ["USDC-c76f1f", "PROTEO-0c7311"],
@@ -130,6 +137,13 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqjz5k2a7ed2xtd0d92zt0j8e7aap70y7g2jpsjz5z4r",
     "tokens_in": ["USDC-c76f1f", "RARE-99e8b0"],
     "tokens_out": ["USDC-c76f1f", "RARE-99e8b0"],
+    "type": "xexchange"
+  },
+  {
+    "name": "xExchange: USDC/TTG",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlcglp4820t2jt0lwdcc2emmlg9x3rsuk2jps8gjfyt",
+    "tokens_in": ["USDC-c76f1f", "TTG-1abcec"],
+    "tokens_out": ["USDC-c76f1f", "TTG-1abcec"],
     "type": "xexchange"
   },
   {

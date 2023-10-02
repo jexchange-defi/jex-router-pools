@@ -1,5 +1,54 @@
 [
   {
+    "name": "AshSwap: ASH/JWLASH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlc8ng44k7q3s7l62cz248nkmhltm8cg64fvsfq2xht",
+    "tokens_in": ["ASH-a642d1", "JWLASH-f362b9"],
+    "tokens_out": ["ASH-a642d1", "JWLASH-f362b9"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: EGLD/CGO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqpa9yh80fm9zad85phkuhr4cm323my5k94fvsxf5akw",
+    "tokens_in": ["CGO-5e9528", "WEGLD-bd4d79"],
+    "tokens_out": ["CGO-5e9528", "WEGLD-bd4d79"],
+    "type": "ashswap_v2"
+  },
+  {
+    "name": "AshSwap: EGLD/JWLEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqa60cy30kdzzd8mygg20zhe4ppfhrp0tv4fvs9vd4hp",
+    "tokens_in": ["WEGLD-bd4d79", "JWLEGLD-023462"],
+    "tokens_out": ["WEGLD-bd4d79", "JWLEGLD-023462"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: HSEGLD/SEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqhvj3vgwhzg26ghaseae6ehleq0r73xd24fvs358shm",
+    "tokens_in": ["SEGLD-3ad2d0", "HSEGLD-c13a4e"],
+    "tokens_out": ["SEGLD-3ad2d0", "HSEGLD-c13a4e"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: HTM/JWLHTM",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqcaaahzjqgzhcpqjnlgcn0cx03pr9wg754fvshd6qhv",
+    "tokens_in": ["HTM-f51d55", "JWLHTM-8e3cd5"],
+    "tokens_out": ["HTM-f51d55", "JWLHTM-8e3cd5"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: SEGLD/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqaf8fzwmas77xxr7qwnxd6j3qsctv55e74fvsmvq675",
+    "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "tokens_out": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: SEGLD/JWLEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlsgfr6xteusallzcspt3ehp8cewlp3s04fvsjm87cw",
+    "tokens_in": ["SEGLD-3ad2d0", "JWLEGLD-023462"],
+    "tokens_out": ["SEGLD-3ad2d0", "JWLEGLD-023462"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: USDC/USDT/BUSD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
     "tokens_in": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
@@ -21,7 +70,7 @@
     "type": "ashswap_stablepool_withdraw"
   },
   {
-    "name": "AshSwap: BUSD/WEGLD",
+    "name": "AshSwap: BUSD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5l05l0ts4lphdktx33apl0ss9rzf4r244fvsva6j53",
     "tokens_in": ["BUSD-40b57e", "WEGLD-bd4d79"],
     "tokens_out": ["BUSD-40b57e", "WEGLD-bd4d79"],

@@ -1,90 +1,90 @@
 [
   {
-    "name": "Exrond: DEAD/WEGLD",
+    "name": "Exrond: DEAD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq03sfm3j083gkjvksr9psk6caezx3yur0s28sqkmhdy",
     "tokens_in": ["DEAD-4c133a", "WEGLD-bd4d79"],
     "tokens_out": ["DEAD-4c133a", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: EBUD/WEGLD",
+    "name": "Exrond: EBUD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqt4mfhzgl08phpz440dawjwpa9pxp7x7s28svlpm76",
     "tokens_in": ["EBUD-d29cce", "WEGLD-bd4d79"],
     "tokens_out": ["EBUD-d29cce", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: ECITY/WEGLD",
+    "name": "Exrond: ECITY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqgp62gkam7prgacluzudqtyhczdqt3scds28s4ajv6v",
     "tokens_in": ["ECITY-2a383a", "WEGLD-bd4d79"],
     "tokens_out": ["ECITY-2a383a", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: EXR/WEGLD",
+    "name": "Exrond: EXR/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqa3l2ksqnrv2hft045u0sv5nksd4zfz33s28syfhneu",
     "tokens_in": ["EXR-401c82", "WEGLD-bd4d79"],
     "tokens_out": ["EXR-401c82", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: HODL/WEGLD",
+    "name": "Exrond: HODL/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqng54zcmecwfnfmyg66c8tnnwqs80zmads28s5fkhq9",
     "tokens_in": ["HODL-d7f4b5", "WEGLD-bd4d79"],
     "tokens_out": ["HODL-d7f4b5", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: JOY/WEGLD",
+    "name": "Exrond: JOY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq64dwz7wpske0pdzamu2zp45xrvnn99tms28sd6dypj",
     "tokens_in": ["JOY-43bad3", "WEGLD-bd4d79"],
     "tokens_out": ["JOY-43bad3", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: LAUNCH/WEGLD",
+    "name": "Exrond: LAUNCH/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqr6meam29vr2wk3xpc2egfsj43qcxwa50s28se4rpg6",
     "tokens_in": ["LAUNCH-3e2258", "WEGLD-bd4d79"],
     "tokens_out": ["LAUNCH-3e2258", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: LOOT/WEGLD",
+    "name": "Exrond: LOOT/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqrqdt8470astsga0nfluvv7utsds8gnzgs28swqtyz0",
     "tokens_in": ["LOOT-af0e6f", "WEGLD-bd4d79"],
     "tokens_out": ["LOOT-af0e6f", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: MERMAID/WEGLD",
+    "name": "Exrond: MERMAID/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq6jmw8t45axvl9xvzj87z82gc6kjm5pxzs28s8dcj43",
     "tokens_in": ["MERMAID-9c388a", "WEGLD-bd4d79"],
     "tokens_out": ["MERMAID-9c388a", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: MUNCHKIN/WEGLD",
+    "name": "Exrond: MUNCHKIN/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqpwm9kfcs2m4qhpzv5pcgs5m2658tnhqps28sgtjxjx",
     "tokens_in": ["MUNCHKIN-3865e6", "WEGLD-bd4d79"],
     "tokens_out": ["MUNCHKIN-3865e6", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: VITAL/WEGLD",
+    "name": "Exrond: VITAL/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq0kuu95frvqj4vjgntzygu9crhlwfh9y0s28sz2dv4l",
     "tokens_in": ["VITAL-ab7917", "WEGLD-bd4d79"],
     "tokens_out": ["VITAL-ab7917", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: WATER/WEGLD",
+    "name": "Exrond: WATER/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqg2lvd45cawlkqucwuqkn7jz42vkq42tus28s76p0qf",
     "tokens_in": ["WATER-9ed400", "WEGLD-bd4d79"],
     "tokens_out": ["WATER-9ed400", "WEGLD-bd4d79"],
     "type": "exrond"
   },
   {
-    "name": "Exrond: ZOG/WEGLD",
+    "name": "Exrond: ZOG/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq25wwg4kg9ractcv3dgscyrzktr888qujs28sy6ynte",
     "tokens_in": ["ZOG-c66239", "WEGLD-bd4d79"],
     "tokens_out": ["ZOG-c66239", "WEGLD-bd4d79"],

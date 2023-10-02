@@ -1,0 +1,79 @@
+[
+  {
+    "name": "VestaDex: OURO/ESTAR",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqd9h8nsg3fhq90lgt0qs9vaz2fp9a7kfd0a0sumzha6",
+    "tokens_in": ["OURO-9ecd6a", "ESTAR-461bab"],
+    "tokens_out": ["OURO-9ecd6a", "ESTAR-461bab"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: OURO/VST",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq32yt3sk84070rf62kplc2vneugdt8t3s0a0stry9wv",
+    "tokens_in": ["OURO-9ecd6a", "VST-c40502"],
+    "tokens_out": ["OURO-9ecd6a", "VST-c40502"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: USDC/GSC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqtcwe86lz2zpp4gne6hld7arenrlal2hw0a0skaqsk4",
+    "tokens_in": ["USDC-c76f1f", "GSC-08cbdb"],
+    "tokens_out": ["USDC-c76f1f", "GSC-08cbdb"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: USDC/OURO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
+    "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/CPA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqd2ge8gnedu0xesy9f7zq4fxhcefe56nz0a0supupwx",
+    "tokens_in": ["VEGLD-2b9319", "CPA-97530a"],
+    "tokens_out": ["VEGLD-2b9319", "CPA-97530a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/ESTAR",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqdkph43kvmhwunyl5v3756stjsdldfdr20a0svhahuk",
+    "tokens_in": ["VEGLD-2b9319", "ESTAR-461bab"],
+    "tokens_out": ["VEGLD-2b9319", "ESTAR-461bab"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/SUPER",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxgkkukrka9znm34wqsmvr5d2pm3ch38g0a0sdwu92p",
+    "tokens_in": ["VEGLD-2b9319", "SUPER-507aa6"],
+    "tokens_out": ["VEGLD-2b9319", "SUPER-507aa6"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/KOSON",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqwj84u3ts3rhx03sek0emhaykztx4jugd0a0stm5tp3",
+    "tokens_in": ["VEGLD-2b9319", "KOSON-5dd4fa"],
+    "tokens_out": ["VEGLD-2b9319", "KOSON-5dd4fa"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqyrgfkqzqn64na8h6stfq2ryyf8eyvtrl0a0spqag6s",
+    "tokens_in": ["VEGLD-2b9319", "USDC-c76f1f"],
+    "tokens_out": ["VEGLD-2b9319", "USDC-c76f1f"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/VST",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqyzaermw7mvtps23zq0gca625gd3pqrft0a0s4jw4ax",
+    "tokens_in": ["VEGLD-2b9319", "VST-c40502"],
+    "tokens_out": ["VEGLD-2b9319", "VST-c40502"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/XLH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqyp9d9dz5cyxffwq9k9e8kyfv4hue3w40a0sjfdrl9",
+    "tokens_in": ["VEGLD-2b9319", "XLH-8daa50"],
+    "tokens_out": ["VEGLD-2b9319", "XLH-8daa50"],
+    "type": "vestadex"
+  }
+]
