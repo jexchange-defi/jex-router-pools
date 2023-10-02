@@ -182,12 +182,5 @@
     ],
     "tokens_out": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
     "type": "jexchange"
-  },
-  {
-    "name": "JEXchange stableswap",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqdh6jeeyamfhq66u7rmkyc48q037kk8n26avs400gg8",
-    "tokens_in": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
-    "tokens_out": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
-    "type": "jexchange_stableswap"
   }
 ]
