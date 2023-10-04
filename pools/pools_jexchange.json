@@ -93,8 +93,8 @@
 {
     "name": "JEXchange MPH-xMPH",
     "sc_address": "erd1qqqqqqqqqqqqqpgqmmxzmktd09gq0hldtczerlv444ykt3pz6avsnys6m9",
-    "tokens_in": [""MPH-f8ea2b"", "XMPH-3af949"],
-    "tokens_out": [""MPH-f8ea2b"", "XMPH-3af949"],
+    "tokens_in": ["MPH-f8ea2b", "XMPH-3af949"],
+    "tokens_out": ["MPH-f8ea2b", "XMPH-3af949"],
     "type": "jexchange"
   },  
   {
