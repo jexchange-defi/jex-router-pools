@@ -245,7 +245,7 @@
     "type": "onedex"
   },
   {
-    "name": "OneDex (xMPH-WEGLD)",
+    "name": "OneDex: xMPH-WEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["XMPH-3af949", "WEGLD-bd4d79"],
     "tokens_out": ["XMPH-3af949", "WEGLD-bd4d79"],
