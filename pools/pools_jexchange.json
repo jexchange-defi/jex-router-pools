@@ -1,90 +1,90 @@
 [
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: ETH/BTC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqpa3pdmemt5l2ex80g7pksr2ettt955d66avsz76hyt",
     "tokens_in": ["WETH-b4ca29", "WBTC-5349b3"],
     "tokens_out": ["WETH-b4ca29", "WBTC-5349b3"],
     "type": "jexchange_lp"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: ETH/BTC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqpa3pdmemt5l2ex80g7pksr2ettt955d66avsz76hyt",
     "tokens_in": ["WETH-b4ca29", "WBTC-5349b3"],
     "tokens_out": ["LPETHBTC-8b8a1f"],
     "type": "jexchange_lp_deposit"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: ETH/BTC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqpa3pdmemt5l2ex80g7pksr2ettt955d66avsz76hyt",
     "tokens_in": ["LPETHBTC-8b8a1f"],
     "tokens_out": ["WETH-b4ca29", "WBTC-5349b3"],
     "type": "jexchange_lp_withdraw"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
     "tokens_in": ["JEX-9040ca", "USDT-f8c08c"],
     "tokens_out": ["JEX-9040ca", "USDT-f8c08c"],
     "type": "jexchange_lp"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
     "tokens_in": ["JEX-9040ca", "USDT-f8c08c"],
     "tokens_out": ["LPJEXUSDT-732142"],
     "type": "jexchange_lp_deposit"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
     "tokens_in": ["LPJEXUSDT-732142"],
     "tokens_out": ["JEX-9040ca", "USDT-f8c08c"],
     "type": "jexchange_lp_withdraw"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
     "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
     "tokens_out": ["JEX-9040ca", "WEGLD-bd4d79"],
     "type": "jexchange_lp"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
     "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
     "tokens_out": ["LPJEXWEGLD-2bccc4"],
     "type": "jexchange_lp_deposit"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgquenuwz852khuxcau49md27wk2qp03v4s6avsdvmxkc",
     "tokens_in": ["LPJEXWEGLD-2bccc4"],
     "tokens_out": ["JEX-9040ca", "WEGLD-bd4d79"],
     "type": "jexchange_lp_withdraw"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/ETH",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
     "tokens_in": ["JEX-9040ca", "WETH-b4ca29"],
     "tokens_out": ["JEX-9040ca", "WETH-b4ca29"],
     "type": "jexchange_lp"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/ETH",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
     "tokens_in": ["JEX-9040ca", "WETH-b4ca29"],
     "tokens_out": ["LPJEXWETH-2a2e52"],
     "type": "jexchange_lp_deposit"
   },
   {
-    "name": "JEXchange LP",
+    "name": "JEXchange: JEX/ETH",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5nmzpdkpr6c5q894f553n49t0uc67vc96avsxgjl3v",
     "tokens_in": ["LPJEXWETH-2a2e52"],
     "tokens_out": ["JEX-9040ca", "WETH-b4ca29"],
     "type": "jexchange_lp_withdraw"
   },
   {
-    "name": "JEXchange USDC-USDT",
+    "name": "JEXchange: USDC/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqahfmv4apudlzgawgcvp2zr65dtufqfmy6avsazkewu",
     "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
     "tokens_out": ["USDC-c76f1f", "USDT-f8c08c"],
