@@ -238,12 +238,12 @@
     "type": "onedex"
   },
   {
-"name": "OneDex: EBUD/USDC",
-"sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
-"tokens_in": ["EBUD-d29cce", "USDC-c76f1f"],
-"tokens_out": ["EBUD-d29cce", "USDC-c76f1f"],
-"type": "onedex"
-},
+    "name": "OneDex: EBUD/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["EBUD-d29cce", "USDC-c76f1f"],
+    "tokens_out": ["EBUD-d29cce", "USDC-c76f1f"],
+    "type": "onedex"
+  },
   {
     "name": "OneDex: XLH/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
