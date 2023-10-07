@@ -221,7 +221,7 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqavq743te5y0e9p6p5rd6vggkgw3nvq8u2jps6sd8ku",
     "tokens_in": ["EBUD-d29cce", "WEGLD-bd4d79"],
     "tokens_out": ["EBUD-d29cce", "WEGLD-bd4d79"],
-    "type": "onedex"
+    "type": "xexchange"
   },
   {
     "name": "xExchange: EGLD/USDC",
