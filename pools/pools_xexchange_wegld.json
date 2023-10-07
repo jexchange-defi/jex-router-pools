@@ -216,6 +216,13 @@
     "tokens_out": ["WETH-b4ca29", "WEGLD-bd4d79"],
     "type": "xexchange"
   },
+    {
+    "name": "xExchange: EBUD/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqavq743te5y0e9p6p5rd6vggkgw3nvq8u2jps6sd8ku",
+    "tokens_in": ["EBUD-d29cce", "WEGLD-bd4d79"],
+    "tokens_out": ["EBUD-d29cce", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
   {
     "name": "xExchange: EGLD/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
