@@ -112,13 +112,6 @@
     "type": "xexchange"
   },
   {
-    "name": "xExchange: KOSON/EGLD",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqywcnrawk9tjurv2k9r4le25kd9as36rk2jpsnlz5c7",
-    "tokens_in": ["KOSON-5dd4fa", "WEGLD-bd4d79"],
-    "tokens_out": ["KOSON-5dd4fa", "WEGLD-bd4d79"],
-    "type": "xexchange"
-  },
-  {
     "name": "xExchange: MEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqa0fsfshnff4n76jhcye6k7uvd7qacsq42jpsp6shh2",
     "tokens_in": ["MEX-455c57", "WEGLD-bd4d79"],
