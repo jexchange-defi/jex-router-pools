@@ -244,4 +244,12 @@
     "tokens_out": ["XMPH-3af949", "WEGLD-bd4d79"],
     "type": "onedex"
   }
+  ,
+  {
+    "name": "OneDex: XBID/WEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["XBID-c7e360", "WEGLD-bd4d79"],
+    "tokens_out": ["XBID-c7e360", "WEGLD-bd4d79"],
+    "type": "onedex"
+  }
 ]
