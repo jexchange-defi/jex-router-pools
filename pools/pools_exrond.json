@@ -7,13 +7,6 @@
     "type": "exrond"
   },
   {
-    "name": "Exrond: EBUD/EGLD",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqt4mfhzgl08phpz440dawjwpa9pxp7x7s28svlpm76",
-    "tokens_in": ["EBUD-d29cce", "WEGLD-bd4d79"],
-    "tokens_out": ["EBUD-d29cce", "WEGLD-bd4d79"],
-    "type": "exrond"
-  },
-  {
     "name": "Exrond: ECITY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqgp62gkam7prgacluzudqtyhczdqt3scds28s4ajv6v",
     "tokens_in": ["ECITY-2a383a", "WEGLD-bd4d79"],
