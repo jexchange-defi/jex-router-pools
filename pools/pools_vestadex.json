@@ -28,6 +28,13 @@
     "type": "vestadex"
   },
   {
+    "name": "VestaDex: USDC/SSC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqj7ams3nmpdjc50s8vckq0srpnpnur7ta0a0s356hhy",
+    "tokens_in": ["USDC-c76f1f", "SSC-dcc54f"],
+    "tokens_out": ["USDC-c76f1f", "SSC-dcc54f"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: VEGLD/CPA",
     "sc_address": "erd1qqqqqqqqqqqqqpgqd2ge8gnedu0xesy9f7zq4fxhcefe56nz0a0supupwx",
     "tokens_in": ["VEGLD-2b9319", "CPA-97530a"],
