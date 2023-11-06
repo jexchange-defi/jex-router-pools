@@ -243,5 +243,12 @@
     "tokens_in": ["XBID-c7e360", "WEGLD-bd4d79"],
     "tokens_out": ["XBID-c7e360", "WEGLD-bd4d79"],
     "type": "onedex"
+  },
+  {
+    "name": "OneDex: TGR/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["TGR-68da1e", "WEGLD-bd4d79"],
+    "tokens_out": ["TGR-68da1e", "WEGLD-bd4d79"],
+    "type": "onedex"
   }
 ]
