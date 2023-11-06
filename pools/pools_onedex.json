@@ -84,13 +84,6 @@
     "type": "onedex"
   },
   {
-    "name": "OneDex: HTM/EGLD",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
-    "tokens_in": ["HTM-f51d55", "WEGLD-bd4d79"],
-    "tokens_out": ["HTM-f51d55", "WEGLD-bd4d79"],
-    "type": "onedex"
-  },
-  {
     "name": "OneDex: HYPE/LEGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["HYPE-619661", "LEGLD-d74da9"],
@@ -238,14 +231,14 @@
     "type": "onedex"
   },
   {
-    "name": "OneDex: xMPH/WEGLD",
+    "name": "OneDex: xMPH/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["XMPH-3af949", "WEGLD-bd4d79"],
     "tokens_out": ["XMPH-3af949", "WEGLD-bd4d79"],
     "type": "onedex"
   },
   {
-    "name": "OneDex: XBID/WEGLD",
+    "name": "OneDex: XBID/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["XBID-c7e360", "WEGLD-bd4d79"],
     "tokens_out": ["XBID-c7e360", "WEGLD-bd4d79"],
