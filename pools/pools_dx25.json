@@ -1,9 +1,37 @@
 [
   {
+    "name": "DX25: BTC/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["WBTC-5349b3", "USDC-c76f1f"],
+    "tokens_out": ["WBTC-5349b3", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: BTC/USDT",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["WBTC-5349b3", "USDT-f8c08c"],
+    "tokens_out": ["WBTC-5349b3", "USDT-f8c08c"],
+    "type": "dx25"
+  },
+  {
     "name": "DX25: EGLD/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["WEGLD-bd4d79", "USDC-c76f1f"],
     "tokens_out": ["WEGLD-bd4d79", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: ETH/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["WETH-b4ca29", "USDC-c76f1f"],
+    "tokens_out": ["WETH-b4ca29", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: HSEGLD/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["HSEGLD-c13a4e", "WEGLD-bd4d79"],
+    "tokens_out": ["HSEGLD-c13a4e", "WEGLD-bd4d79"],
     "type": "dx25"
   },
   {
@@ -18,6 +46,20 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["HTM-f51d55", "USDT-f8c08c"],
     "tokens_out": ["HTM-f51d55", "USDT-f8c08c"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: RIDE/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["RIDE-7d18e9", "USDC-c76f1f"],
+    "tokens_out": ["RIDE-7d18e9", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: SEGLD/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
+    "tokens_out": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
     "type": "dx25"
   },
   {
