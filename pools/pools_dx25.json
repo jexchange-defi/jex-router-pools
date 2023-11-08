@@ -1,0 +1,9 @@
+[
+  {
+    "name": "DX25: USDT/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
+    "tokens_out": ["USDC-c76f1f", "USDT-f8c08c"],
+    "type": "dx25"
+  }
+]
