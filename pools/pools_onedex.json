@@ -140,6 +140,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: PADAWAN/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["PADAWAN-a17f58", "ONE-f9954f"],
+    "tokens_out": ["PADAWAN-a17f58", "ONE-f9954f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: PLATA/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["PLATA-9ba6c3", "WEGLD-bd4d79"],
