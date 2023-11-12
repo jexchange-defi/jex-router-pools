@@ -217,6 +217,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: PADAWAN/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqdknns3m20w5k57zp0fuagqrajq3zv8h42jpsw44avc",
+    "tokens_in": ["PADAWAN-a17f58", "WEGLD-bd4d79"],
+    "tokens_out": ["PADAWAN-a17f58", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: EGLD/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
     "tokens_in": ["USDC-c76f1f", "WEGLD-bd4d79"],
