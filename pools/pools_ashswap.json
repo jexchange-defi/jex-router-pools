@@ -82,5 +82,19 @@
     "tokens_in": ["ASH-a642d1", "USDT-f8c08c"],
     "tokens_out": ["ASH-a642d1", "USDT-f8c08c"],
     "type": "ashswap_v2"
+  },
+  {
+    "name": "AshSwap: USDC/DNA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqt4m0uaamjegpggvzxc8hh22z2r8fgf6v4fvstvetgx",
+    "tokens_in": ["USDC-c76f1f", "DNA-b144d1"],
+    "tokens_out": ["USDC-c76f1f", "DNA-b144d1"],
+    "type": "ashswap_v2"
+  },
+  {
+    "name": "AshSwap: JWLEGLD/EPUNKS",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqguf2y57kze3lm5w0h02ax38sfqp95sn64fvsq5qwx9",
+    "tokens_in": ["JWLEGLD-023462", "EPUNKS-dc0f59"],
+    "tokens_out": ["JWLEGLD-023462", "EPUNKS-dc0f59"],
+    "type": "ashswap_v2"
   }
 ]
