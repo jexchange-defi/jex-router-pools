@@ -231,6 +231,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: XBONK/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqejn39p0a0pad0352qxkvlduu6nn6hc6j2jps0ulg2d",
+    "tokens_in": ["XBONK-7cde03", "WEGLD-bd4d79"],
+    "tokens_out": ["XBONK-7cde03", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: ZPAY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqtjhhs49h0q2ncld64l3thtk7s7yuw47v2jps8emt0v",
     "tokens_in": ["ZPAY-247875", "WEGLD-bd4d79"],
