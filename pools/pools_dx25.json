@@ -1,5 +1,12 @@
 [
   {
+    "name": "DX25: ASH/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["ASH-a642d1", "USDC-c76f1f"],
+    "tokens_out": ["ASH-a642d1", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
     "name": "DX25: BTC/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["WBTC-5349b3", "USDC-c76f1f"],
