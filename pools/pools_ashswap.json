@@ -96,5 +96,12 @@
     "tokens_in": ["JWLEGLD-023462", "EPUNKS-dc0f59"],
     "tokens_out": ["JWLEGLD-023462", "EPUNKS-dc0f59"],
     "type": "ashswap_v2"
+  },
+  {
+    "name": "AshSwap: USDC/JWLUSD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqq4x0g87cg6834h0f7eq4zex473n46ett4fvsg6kvu5",
+    "tokens_in": ["USDC-c76f1f", "JWLUSD-62939e"],
+    "tokens_out": ["USDC-c76f1f", "JWLUSD-62939e"],
+    "type": "ashswap_stablepool"
   }
 ]
