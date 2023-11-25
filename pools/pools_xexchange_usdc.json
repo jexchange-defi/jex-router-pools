@@ -49,6 +49,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: USDC/INFRA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0r53p84pfk88kg02k45d9fp6gyhxhfeu2jps2ruxjp",
+    "tokens_in": ["USDC-c76f1f", "INFRA-43985c"],
+    "tokens_out": ["USDC-c76f1f", "INFRA-43985c"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/INSTANT",
     "sc_address": "erd1qqqqqqqqqqqqqpgquymd0zqjy4junwv2z7m7wll8vek0qz7d2jpsl4wnaq",
     "tokens_in": ["USDC-c76f1f", "INSTANT-086961"],
@@ -165,13 +172,6 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqn0qsa47m96ys0ykst8v4axxa80kcex4v2jpsgqryaa",
     "tokens_in": ["USDC-c76f1f", "ZOG-c66239"],
     "tokens_out": ["USDC-c76f1f", "ZOG-c66239"],
-    "type": "xexchange"
-  },
-  {
-    "name": "xExchange: USDC/INFRA",
-    "sc_address": "erd1qqqqqqqqqqqqqpgq0r53p84pfk88kg02k45d9fp6gyhxhfeu2jps2ruxjp",
-    "tokens_in": ["USDC-c76f1f", "INFRA-43985c"],
-    "tokens_out": ["USDC-c76f1f", "INFRA-43985c"],
     "type": "xexchange"
   }
 ]
