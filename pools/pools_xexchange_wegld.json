@@ -243,5 +243,12 @@
     "tokens_in": ["ZPAY-247875", "WEGLD-bd4d79"],
     "tokens_out": ["ZPAY-247875", "WEGLD-bd4d79"],
     "type": "xexchange"
+  },
+  {
+    "name": "xExchange: INFRA/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0r53p84pfk88kg02k45d9fp6gyhxhfeu2jps2ruxjp",
+    "tokens_in": ["INFRA-43985c", "USDC-c76f1f"],
+    "tokens_out": ["INFRA-43985c", "USDC-c76f1f"],
+    "type": "xexchange"
   }
 ]
