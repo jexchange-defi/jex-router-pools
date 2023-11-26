@@ -35,6 +35,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: CYBER/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["CYBER-489c1c", "WEGLD-bd4d79"],
+    "tokens_out": ["CYBER-489c1c", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: EBUD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["EBUD-d29cce", "WEGLD-bd4d79"],
