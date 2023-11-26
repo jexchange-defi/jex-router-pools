@@ -168,6 +168,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: QWT/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["QWT-46ac01", "WEGLD-bd4d79"],
+    "tokens_out": ["QWT-46ac01", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: RARE/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["RARE-99e8b0", "WEGLD-bd4d79"],
