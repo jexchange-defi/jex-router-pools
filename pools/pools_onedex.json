@@ -119,6 +119,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: MOOVE/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["MOOVE-875539", "WEGLD-bd4d79"],
+    "tokens_out": ["MOOVE-875539", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: ONE/BTC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["ONE-f9954f", "WBTC-5349b3"],
