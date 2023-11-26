@@ -7,6 +7,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: ASH/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["ASH-a642d1", "WEGLD-bd4d79"],
+    "tokens_out": ["ASH-a642d1", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: BFY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["BFY-8344ff", "WEGLD-bd4d79"],
