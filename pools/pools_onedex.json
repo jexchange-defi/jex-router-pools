@@ -77,6 +77,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: FOG/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["FOG-12657e", "ONE-f9954f"],
+    "tokens_out": ["FOG-12657e", "ONE-f9954f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: GCC/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["GCC-3194ab", "USDC-c76f1f"],
