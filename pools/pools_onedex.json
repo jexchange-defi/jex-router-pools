@@ -217,6 +217,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: RARE/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["RARE-99e8b0", "ONE-f9954f"],
+    "tokens_out": ["RARE-99e8b0", "ONE-f9954f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: USDC/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["USDC-c76f1f", "WEGLD-bd4d79"],
