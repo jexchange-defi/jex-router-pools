@@ -119,6 +119,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: JEX/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzfg0xwtpkz7pcke6alwgjjc73jc9646l2jpsp4kmzw",
+    "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
+    "tokens_out": ["JEX-9040ca", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: MEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqa0fsfshnff4n76jhcye6k7uvd7qacsq42jpsp6shh2",
     "tokens_in": ["MEX-455c57", "WEGLD-bd4d79"],
