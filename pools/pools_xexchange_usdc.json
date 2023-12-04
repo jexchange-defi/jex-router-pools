@@ -1,5 +1,12 @@
 [
   {
+    "name": "xExchange: USDC/BEE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq0rdm3zeernlnl9xrey0c8c0w5r85f0nl2jps2z643c",
+    "tokens_in": ["USDC-c76f1f", "BEE-cb37b6"],
+    "tokens_out": ["USDC-c76f1f", "BEE-cb37b6"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/CPA",
     "sc_address": "erd1qqqqqqqqqqqqqpgqzy0s7c6mdj78q9nl4hspky8kjg7njm2p2jpsp4fs39",
     "tokens_in": ["USDC-c76f1f", "CPA-97530a"],

@@ -14,6 +14,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: BEE/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkg9tdsel5rc9r7yup8phl290cg7ck52y2jps0x4c93",
+    "tokens_in": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "tokens_out": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: BFY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgq9m0s3ela9pm5lte8rrzwpztz3990zz232jpsqk2pk2",
     "tokens_in": ["BFY-8344ff", "WEGLD-bd4d79"],
