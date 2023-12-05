@@ -21,6 +21,27 @@
     "type": "jexchange_lp_withdraw"
   },
   {
+    "name": "JEXchange: JEX/BEE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5c3q0p6lw2lltlpqnlv8gelmlk8wt7kk6avsagmnss",
+    "tokens_in": ["JEX-9040ca", "BEE-cb37b6"],
+    "tokens_out": ["JEX-9040ca", "BEE-cb37b6"],
+    "type": "jexchange_lp"
+  },
+  {
+    "name": "JEXchange: JEX/BEE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5c3q0p6lw2lltlpqnlv8gelmlk8wt7kk6avsagmnss",
+    "tokens_in": ["JEX-9040ca", "BEE-cb37b6"],
+    "tokens_out": ["LPJEXBEE-a6fd37"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: JEX/BEE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq5c3q0p6lw2lltlpqnlv8gelmlk8wt7kk6avsagmnss",
+    "tokens_in": ["LPJEXBEE-a6fd37"],
+    "tokens_out": ["JEX-9040ca", "BEE-cb37b6"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
     "name": "JEXchange: JEX/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqru6tkedsjjszrkkanctgq9m6rm2ple436avs0qj07m",
     "tokens_in": ["JEX-9040ca", "USDT-f8c08c"],
