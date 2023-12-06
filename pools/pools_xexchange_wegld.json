@@ -42,13 +42,6 @@
     "type": "xexchange"
   },
   {
-    "name": "xExchange: BUSD/EGLD",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqylnj3nm3tf2mslychjjsfvmv806fxwwk2jpsvscxzd",
-    "tokens_in": ["BUSD-40b57e", "WEGLD-bd4d79"],
-    "tokens_out": ["BUSD-40b57e", "WEGLD-bd4d79"],
-    "type": "xexchange"
-  },
-  {
     "name": "xExchange: CHARGED/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqseuv52va8x22vxku0lw6nw5k9saayt42jpsr3ptyk",
     "tokens_in": ["CHARGED-703583", "WEGLD-bd4d79"],

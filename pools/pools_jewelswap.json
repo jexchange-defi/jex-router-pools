@@ -54,19 +54,5 @@
     "tokens_in": ["JIUSDC-6e2818"],
     "tokens_out": ["USDC-c76f1f"],
     "type": "jewelswap_lend_withdraw"
-  },
-  {
-    "name": "JewelSwap lending",
-    "sc_address": "erd1qqqqqqqqqqqqqpgq96n4gxvmw8nxgxud8nv8qmms5namspc5vmusg930sh",
-    "tokens_in": ["BUSD-40b57e"],
-    "tokens_out": ["JIBUSD-9d7082"],
-    "type": "jewelswap_lend_deposit"
-  },
-  {
-    "name": "JewelSwap lending",
-    "sc_address": "erd1qqqqqqqqqqqqqpgq96n4gxvmw8nxgxud8nv8qmms5namspc5vmusg930sh",
-    "tokens_in": ["JIBUSD-9d7082"],
-    "tokens_out": ["BUSD-40b57e"],
-    "type": "jewelswap_lend_withdraw"
   }
 ]

@@ -30,10 +30,10 @@ Examples:
 
 ```json
 {
-  "name": "AshSwap: USDC/USDT/BUSD",
+  "name": "AshSwap: USDC/USDT",
   "sc_address": "erd1qqqqqqqqqqqqqpgqs8p2v9wr8j48vqrmudcj94wu47kqra3r4fvshfyd9c",
-  "tokens_in": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
-  "tokens_out": ["BUSD-40b57e", "USDC-c76f1f", "USDT-f8c08c"],
+  "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
+  "tokens_out": ["USDC-c76f1f", "USDT-f8c08c"],
   "type": "ashswap_stablepool"
 }
 ```
