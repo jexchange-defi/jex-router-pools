@@ -7,6 +7,20 @@
     "type": "dx25"
   },
   {
+    "name": "DX25: BEE/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "tokens_out": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "type": "dx25"
+  },
+  {
+    "name": "DX25: BEE/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["BEE-cb37b6", "USDC-c76f1f"],
+    "tokens_out": ["BEE-cb37b6", "USDC-c76f1f"],
+    "type": "dx25"
+  },
+  {
     "name": "DX25: BTC/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["WBTC-5349b3", "USDC-c76f1f"],
