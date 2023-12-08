@@ -153,7 +153,7 @@
     "tokens_out": ["MOOVE-875539", "WEGLD-bd4d79"],
     "type": "onedex"
   },
-    {
+  {
     "name": "OneDex: MPH/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["MPH-f8ea2b", "WEGLD-bd4d79"],
