@@ -56,6 +56,13 @@
     "type": "dx25"
   },
   {
+    "name": "DX25: HTM/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
+    "tokens_in": ["HTM-f51d55", "WEGLD-bd4d79"],
+    "tokens_out": ["HTM-f51d55", "WEGLD-bd4d79"],
+    "type": "dx25"
+  },
+  {
     "name": "DX25: HTM/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["HTM-f51d55", "USDC-c76f1f"],
