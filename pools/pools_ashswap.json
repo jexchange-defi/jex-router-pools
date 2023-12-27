@@ -110,5 +110,12 @@
     "tokens_in": ["USDC-c76f1f", "JWLUSD-62939e"],
     "tokens_out": ["USDC-c76f1f", "JWLUSD-62939e"],
     "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: USDT/WDAI/JWLUSD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq3ed8p278dm5rlt94kflvgsskkp0ap3jj4fvs3lekwu",
+    "tokens_in": ["USDT-f8c08c", "WDAI-9eeb54", "JWLUSD-62939e"],
+    "tokens_out": ["USDT-f8c08c", "WDAI-9eeb54", "JWLUSD-62939e"],
+    "type": "ashswap_stablepool"
   }
 ]
