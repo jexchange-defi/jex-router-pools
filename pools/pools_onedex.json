@@ -119,6 +119,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: JACKET/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["JACKET-c44ffb", "WEGLD-bd4d79"],
+    "tokens_out": ["JACKET-c44ffb", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: JEX/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["JEX-9040ca", "WEGLD-bd4d79"],
