@@ -21,10 +21,24 @@
     "type": "vestadex"
   },
   {
+    "name": "VestaDex: USDC/JACKET",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqtz6l8y82gd396lkdndgmacqzqxttd3dx0a0sgaqprg",
+    "tokens_in": ["USDC-c76f1f", "JACKET-c44ffb"],
+    "tokens_out": ["USDC-c76f1f", "JACKET-c44ffb"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: USDC/OURO",
     "sc_address": "erd1qqqqqqqqqqqqqpgqzna793tw3sd2vshvzkt0ttwu9pdyj97e0a0s3j3dv2",
     "tokens_in": ["USDC-c76f1f", "OURO-9ecd6a"],
     "tokens_out": ["USDC-c76f1f", "OURO-9ecd6a"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: USDC/PADAWAN",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqglhuz0cum2dsttnukthz4w5tyvc6xe930a0sszd78w",
+    "tokens_in": ["USDC-c76f1f", "PADAWAN-a17f58"],
+    "tokens_out": ["USDC-c76f1f", "PADAWAN-a17f58"],
     "type": "vestadex"
   },
   {
@@ -46,6 +60,20 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqdkph43kvmhwunyl5v3756stjsdldfdr20a0svhahuk",
     "tokens_in": ["VEGLD-2b9319", "ESTAR-461bab"],
     "tokens_out": ["VEGLD-2b9319", "ESTAR-461bab"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/JACKET",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq3598656zmh9q4vf2ahjhmzj79907drl60a0sjj6ffg",
+    "tokens_in": ["VEGLD-2b9319", "JACKET-c44ffb"],
+    "tokens_out": ["VEGLD-2b9319", "JACKET-c44ffb"],
+    "type": "vestadex"
+  },
+  {
+    "name": "VestaDex: VEGLD/PADAWAN",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqegthfrttz323zkpdqkq70w9ffn457s5v0a0s5tdhg0",
+    "tokens_in": ["VEGLD-2b9319", "PADAWAN-a17f58"],
+    "tokens_out": ["VEGLD-2b9319", "PADAWAN-a17f58"],
     "type": "vestadex"
   },
   {
