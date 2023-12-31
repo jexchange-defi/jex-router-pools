@@ -21,6 +21,13 @@
     "type": "jexchange_lp_withdraw"
   },
   {
+    "name": "JEXchange: JACKET/COAT",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqssrazqtvzeku9570tpc0x5qr3vdzgdar6avsf4n3j5",
+    "tokens_in": ["JACKET-c44ffb", "COAT-5612d2"],
+    "tokens_out": ["JACKET-c44ffb", "COAT-5612d2"],
+    "type": "jexchange_lp"
+  },
+  {
     "name": "JEXchange: JEX/BEE",
     "sc_address": "erd1qqqqqqqqqqqqqpgq5c3q0p6lw2lltlpqnlv8gelmlk8wt7kk6avsagmnss",
     "tokens_in": ["JEX-9040ca", "BEE-cb37b6"],
