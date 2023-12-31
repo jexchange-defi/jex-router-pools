@@ -70,6 +70,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: USDC/JACKET",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq35pt4n5rxmww46cg8sqaqzsz8leh5dml2jpsgk7dy8",
+    "tokens_in": ["USDC-c76f1f", "JACKET-c44ffb"],
+    "tokens_out": ["USDC-c76f1f", "JACKET-c44ffb"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: USDC/JOY",
     "sc_address": "erd1qqqqqqqqqqqqqpgqxgnyhmrfl73g9m684zdhyn4ew86pv9tq2jpsuuduzh",
     "tokens_in": ["USDC-c76f1f", "JOY-43bad3"],
