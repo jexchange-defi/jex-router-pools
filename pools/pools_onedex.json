@@ -245,6 +245,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: TCH/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["TCH-cb0dfc", "WEGLD-bd4d79"],
+    "tokens_out": ["TCH-cb0dfc", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: TURKEY/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["TURKEY-dde1b8", "USDC-c76f1f"],
