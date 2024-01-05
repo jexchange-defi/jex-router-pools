@@ -109,7 +109,7 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqkvfry6tyaagy84pd897krlqc82jhtlpw4fvs7nc60d",
     "tokens_in": ["JWLUSD-62939e", "JWLEGLD-023462"],
     "tokens_out": ["JWLUSD-62939e", "JWLEGLD-023462"],
-    "type": "ashswap_stablepool"
+    "type": "ashswap_v2"
   },
   {
     "name": "AshSwap: USDC/JWLUSD",
