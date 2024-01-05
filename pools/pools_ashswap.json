@@ -105,6 +105,13 @@
     "type": "ashswap_v2"
   },
   {
+    "name": "AshSwap: JWLUSD/JWLEGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkvfry6tyaagy84pd897krlqc82jhtlpw4fvs7nc60d",
+    "tokens_in": ["JWLUSD-62939e", "JWLEGLD-023462"],
+    "tokens_out": ["JWLUSD-62939e", "JWLEGLD-023462"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: USDC/JWLUSD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqq4x0g87cg6834h0f7eq4zex473n46ett4fvsg6kvu5",
     "tokens_in": ["USDC-c76f1f", "JWLUSD-62939e"],
