@@ -84,6 +84,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: FGG/ONE",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["FGG-9326d0", "ONE-f9954f"],
+    "tokens_out": ["FGG-9326d0", "ONE-f9954f"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: FOG/ONE",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["FOG-12657e", "ONE-f9954f"],
