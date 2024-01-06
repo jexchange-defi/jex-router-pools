@@ -147,6 +147,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: LOKINU/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["LOKINU-bc11a1", "WEGLD-bd4d79"],
+    "tokens_out": ["LOKINU-bc11a1", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: LEGLD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["LEGLD-d74da9", "WEGLD-bd4d79"],
