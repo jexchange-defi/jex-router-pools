@@ -147,6 +147,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: OURO/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqlul7mjnqcksa205crvxccnqvxyvlxgvk2jpsau7y5k",
+    "tokens_in": ["OURO-9ecd6a", "WEGLD-bd4d79"],
+    "tokens_out": ["OURO-9ecd6a", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: PLATA/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqy8ufy6h4uyxzjsxe0kzfszsjd7myphzz2jpsrf7hkv",
     "tokens_in": ["PLATA-9ba6c3", "WEGLD-bd4d79"],
