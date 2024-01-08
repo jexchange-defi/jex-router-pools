@@ -21,6 +21,27 @@
     "type": "jexchange_lp_withdraw"
   },
   {
+    "name": "JEXchange: ETH/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq9xrlefh7w7346fdv6ggusufawe5aqg446avsl6xfqd",
+    "tokens_in": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "tokens_out": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "type": "jexchange_lp"
+  },
+  {
+    "name": "JEXchange: ETH/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq9xrlefh7w7346fdv6ggusufawe5aqg446avsl6xfqd",
+    "tokens_in": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "tokens_out": ["LPETHEGLD-bcb4ac"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: ETH/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq9xrlefh7w7346fdv6ggusufawe5aqg446avsl6xfqd",
+    "tokens_in": ["LPETHEGLD-bcb4ac"],
+    "tokens_out": ["WETH-b4ca29", "WEGLD-bd4d79"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
     "name": "JEXchange: JACKET/COAT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqssrazqtvzeku9570tpc0x5qr3vdzgdar6avsf4n3j5",
     "tokens_in": ["JACKET-c44ffb", "COAT-5612d2"],
