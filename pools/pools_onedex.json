@@ -14,6 +14,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: BEE/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "tokens_out": ["BEE-cb37b6", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: BFY/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["BFY-8344ff", "WEGLD-bd4d79"],
