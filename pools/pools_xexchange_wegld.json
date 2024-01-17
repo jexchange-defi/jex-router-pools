@@ -28,6 +28,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: BTO/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqvlhhxh7wz36d4ng9kqtfhk5dzs0qgz9e2jpsluet2p",
+    "tokens_in": ["BTO-264906", "WEGLD-bd4d79"],
+    "tokens_out": ["BTO-264906", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: BHAT/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqp32ecg03fyxgt2pf2fsxyg4knvhfvtgz2jps6rx6gf",
     "tokens_in": ["BHAT-c1fde3", "WEGLD-bd4d79"],
