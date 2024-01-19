@@ -133,6 +133,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: HIT/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["WEGLD-bd4d79", "HIT-3f109b"],
+    "tokens_out": ["HIT-3f109b", "WEGLD-bd4d79"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: HODL/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["HODL-b8bd81", "WEGLD-bd4d79"],
