@@ -278,5 +278,12 @@
     "tokens_in": ["ZPAY-247875", "WEGLD-bd4d79"],
     "tokens_out": ["ZPAY-247875", "WEGLD-bd4d79"],
     "type": "xexchange"
+  },
+  {
+    "name": "xExchange: TRO/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqmmvfh4anzayxwn3cfe23uw6lguu8synr2jpsu3l0am",
+    "tokens_in": ["TRO-94c925", "WEGLD-bd4d79"],
+    "tokens_out": ["TRO-94c925", "WEGLD-bd4d79"],
+    "type": "xexchange"
   }
 ]
