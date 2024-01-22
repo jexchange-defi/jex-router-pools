@@ -285,5 +285,12 @@
     "tokens_in": ["TRO-94c925", "WEGLD-bd4d79"],
     "tokens_out": ["TRO-94c925", "WEGLD-bd4d79"],
     "type": "xexchange"
+  },
+  {
+    "name": "xExchange: UNITYX/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqcpknrjaa9zve06sadq8gxva6qwra5zs92jps9hzp5m",
+    "tokens_in": ["UNITYX-3181a2", "WEGLD-bd4d79"],
+    "tokens_out": ["UNITYX-3181a2", "WEGLD-bd4d79"],
+    "type": "xexchange"
   }
 ]
