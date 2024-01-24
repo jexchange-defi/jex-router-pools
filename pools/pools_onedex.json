@@ -77,6 +77,13 @@
     "type": "onedex"
   },
   {
+    "name": "OneDex: EDIA/BTC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["EDIA-60b86f", "WBTC-5349b3"],
+    "tokens_out": ["EDIA-60b86f", "WBTC-5349b3"],
+    "type": "onedex"
+  },
+  {
     "name": "OneDex: EFOO/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
     "tokens_in": ["EFOO-8fe2d4", "WEGLD-bd4d79"],
