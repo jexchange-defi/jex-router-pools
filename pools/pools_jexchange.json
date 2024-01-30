@@ -1,5 +1,12 @@
 [
   {
+    "name": "JEXchange: EBUD/JEX",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqefgeflu7x350tae0fac2r5aesua7xmgh6avs57c795",
+    "tokens_in": ["EBUD-d29cce", "JEX-9040ca"],
+    "tokens_out": ["LPEBUDJEX-d194f8"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
     "name": "JEXchange: ETH/BTC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqpa3pdmemt5l2ex80g7pksr2ettt955d66avsz76hyt",
     "tokens_in": ["WETH-b4ca29", "WBTC-5349b3"],
