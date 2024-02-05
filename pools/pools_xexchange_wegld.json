@@ -91,6 +91,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: DAI/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqraynw24nk46q96ddz5v6pvp8r4geqxrx2jpsn9jhnk",
+    "tokens_in": ["WDAI-9eeb54", "WEGLD-bd4d79"],
+    "tokens_out": ["WDAI-9eeb54", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: EFFORT/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqtga4sxnc462aeqdpxxajs8k7pr64ltkh2jps3ewwyw",
     "tokens_in": ["EFFORT-a13513", "WEGLD-bd4d79"],
