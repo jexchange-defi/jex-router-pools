@@ -122,13 +122,6 @@
     "name": "JEXchange: USDC/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqahfmv4apudlzgawgcvp2zr65dtufqfmy6avsazkewu",
     "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
-    "tokens_out": ["USDC-c76f1f", "USDT-f8c08c"],
-    "type": "jexchange_stablepool"
-  },
-  {
-    "name": "JEXchange: USDC/USDT",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqahfmv4apudlzgawgcvp2zr65dtufqfmy6avsazkewu",
-    "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
     "tokens_out": ["LPUSDCUSDT-fd8cf1"],
     "type": "jexchange_stablepool_deposit"
   },
