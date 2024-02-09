@@ -266,6 +266,13 @@
     "type": "xexchange"
   },
   {
+    "name": "xExchange: TADA/EGLD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqamlvh7su5925r7djmd36xd93gylfym9j2jpsdya7mj",
+    "tokens_in": ["TADA-5c032c", "WEGLD-bd4d79"],
+    "tokens_out": ["TADA-5c032c", "WEGLD-bd4d79"],
+    "type": "xexchange"
+  },
+  {
     "name": "xExchange: XBONK/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqejn39p0a0pad0352qxkvlduu6nn6hc6j2jps0ulg2d",
     "tokens_in": ["XBONK-7cde03", "WEGLD-bd4d79"],
