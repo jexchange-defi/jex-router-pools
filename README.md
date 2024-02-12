@@ -2,9 +2,11 @@
 
 # JEX router pools
 
-Configuration of liquidity pools used in JEX DEX aggregator
+Configuration of liquidity pools used in JEX DEX aggregator.
 
 # How to add a pool
+
+**Note that pools from JEXchangeDefi and xExchange are automatically added to the DEX aggregator. No configuration is required for these pool.**
 
 Create a pull request on https://github.com/javier-nft/jex-router-pools with the following changes.
 
@@ -44,6 +46,6 @@ Examples:
   "sc_address": "erd1qqqqqqqqqqqqqpgq5g7xxmpuf6nmux3r3spjxv0wleyypz8q2jpsyc3nh8",
   "tokens_in": ["CYBER-489c1c", "WEGLD-bd4d79"],
   "tokens_out": ["CYBER-489c1c", "WEGLD-bd4d79"],
-  "type": "xexchange"
+  "type": "vestadex"
 }
 ```
