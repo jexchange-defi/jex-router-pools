@@ -439,5 +439,12 @@
     "tokens_in": ["XTW-78700a", "MEX-455c57"],
     "tokens_out": ["XTW-78700a", "MEX-455c57"],
     "type": "onedex"
+  },
+  {
+    "name": "OneDex: GREEN/PLATA",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+    "tokens_in": ["GREEN-1c62ca", "PLATA-9ba6c3"],
+    "tokens_out": ["GREEN-1c62ca", "PLATA-9ba6c3"],
+    "type": "onedex"
   }
 ]
