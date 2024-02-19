@@ -1,5 +1,12 @@
 [
   {
+    "name": "AshSwap: apUSDC/USDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqp45m86f6xkpd4rr8qgzhdlmwjqeseajm4fvsguk40h",
+    "tokens_in": ["APUSDC-1ac537", "USDC-c76f1f"],
+    "tokens_out": ["APUSDC-1ac537", "USDC-c76f1f"],
+    "type": "ashswap_stablepool"
+  },
+  {
     "name": "AshSwap: ASH/JWLASH",
     "sc_address": "erd1qqqqqqqqqqqqqpgqlc8ng44k7q3s7l62cz248nkmhltm8cg64fvsfq2xht",
     "tokens_in": ["ASH-a642d1", "JWLASH-f362b9"],
