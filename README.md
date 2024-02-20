@@ -6,7 +6,9 @@ Configuration of liquidity pools used in JEX DEX aggregator.
 
 # How to add a pool
 
-**Note that pools from JEXchangeDefi and xExchange are automatically added to the DEX aggregator. No configuration is required for these pool.**
+**Note that pools from JEXchangeDefi, xExchange and OneDex are automatically added to the DEX aggregator.**
+
+**No configuration is required for these pool.**
 
 Create a pull request on https://github.com/javier-nft/jex-router-pools with the following changes.
 
