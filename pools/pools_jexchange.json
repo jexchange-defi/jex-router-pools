@@ -118,7 +118,7 @@
     "tokens_out": ["JEX-9040ca", "RARE-99e8b0"],
     "type": "jexchange_lp_withdraw"
   },
-    {
+  {
     "name": "JEXchange: JEX/xMPH",
     "sc_address": "erd1qqqqqqqqqqqqqpgqzjdqgxdacc57ltx9wclytj8s5reew2kc6avs9akxe3",
     "tokens_in": ["JEX-9040ca", "XMPH-3af949"],
