@@ -118,6 +118,20 @@
     "tokens_out": ["JEX-9040ca", "RARE-99e8b0"],
     "type": "jexchange_lp_withdraw"
   },
+    {
+    "name": "JEXchange: JEX/xMPH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzjdqgxdacc57ltx9wclytj8s5reew2kc6avs9akxe3",
+    "tokens_in": ["JEX-9040ca", "XMPH-3af949"],
+    "tokens_out": ["LPXMPHJEX-f5090f"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: JEX/xMPH",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqzjdqgxdacc57ltx9wclytj8s5reew2kc6avs9akxe3",
+    "tokens_in": ["LPXMPHJEX-f5090f"],
+    "tokens_out": ["JEX-9040ca", "XMPH-3af949"],
+    "type": "jexchange_lp_withdraw"
+  },
   {
     "name": "JEXchange: USDC/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqahfmv4apudlzgawgcvp2zr65dtufqfmy6avsazkewu",
