@@ -142,8 +142,8 @@
   {
     "name": "JEXchange: xMPH/RACCOON",
     "sc_address": "erd1qqqqqqqqqqqqqpgqk0pgrzllfhzm5qydc7v8rte59sr8atuj6avsxtgx5g",
-    "tokens_in": ["XMPH-3af949", "RACCOON-fc26f5"],
-    "tokens_out": ["LPRACCOONX-086902"],
+    "tokens_in": ["LPRACCOONX-086902"],
+    "tokens_out": ["XMPH-3af949", "RACCOON-fc26f5"],
     "type": "jexchange_lp_withdraw"
   },
   {
