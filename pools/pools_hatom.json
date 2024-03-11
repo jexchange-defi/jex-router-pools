@@ -19,5 +19,19 @@
     "tokens_in": ["HSEGLD-c13a4e"],
     "tokens_out": ["SEGLD-3ad2d0"],
     "type": "hatom_money_market_redeem"
+  },
+  {
+    "name": "Hatom: MM HUSDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+    "tokens_in": ["USDC-c76f1f"],
+    "tokens_out": ["HUSDC-d80042"],
+    "type": "hatom_money_market_mint"
+  },
+  {
+    "name": "Hatom: MM HUSDC",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkrgsvct7hfx7ru30mfzk3uy6pxzxn6jj78ss84aldu",
+    "tokens_in": ["HUSDC-d80042"],
+    "tokens_out": ["USDC-c76f1f"],
+    "type": "hatom_money_market_redeem"
   }
 ]
