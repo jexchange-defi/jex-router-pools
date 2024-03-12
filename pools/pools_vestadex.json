@@ -1,5 +1,12 @@
 [
   {
+    "name": "VestaDex: VEGLD/RACCOON",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq53h4kkj37hfmg3crene942t8tj6t9tz00a0sdkyyjm",
+    "tokens_in": ["VEGLD-2b9319", "RACCOON-fc26f5"],
+    "tokens_out": ["VEGLD-2b9319", "RACCOON-fc26f5"],
+    "type": "vestadex"
+  },
+  {
     "name": "VestaDex: OURO/ESTAR",
     "sc_address": "erd1qqqqqqqqqqqqqpgqd9h8nsg3fhq90lgt0qs9vaz2fp9a7kfd0a0sumzha6",
     "tokens_in": ["OURO-9ecd6a", "ESTAR-461bab"],
