@@ -1,5 +1,19 @@
 [
   {
+    "name": "JEXchange: COMET/JEX",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqrrffy54xxsac3602s9cwqjayz3lsta3w6avs5uq8s8",
+    "tokens_in": ["COMET-aedeb8", "JEX-9040ca"],
+    "tokens_out": ["LPCOMETJEX-91c9b5"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
+    "name": "JEXchange: COMET/JEX",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqrrffy54xxsac3602s9cwqjayz3lsta3w6avs5uq8s8",
+    "tokens_in": ["LPCOMETJEX-91c9b5"],
+    "tokens_out": ["COMET-aedeb8", "JEX-9040ca"],
+    "type": "jexchange_lp_withdraw"
+  },
+  {
     "name": "JEXchange: EBUD/JEX",
     "sc_address": "erd1qqqqqqqqqqqqqpgqefgeflu7x350tae0fac2r5aesua7xmgh6avs57c795",
     "tokens_in": ["EBUD-d29cce", "JEX-9040ca"],
