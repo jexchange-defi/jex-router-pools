@@ -7,6 +7,13 @@
     "type": "jexchange_lp_deposit"
   },
   {
+    "name": "JEXchange: EBUD/HIT",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq8tmcra2ucpewd03yhwx00fch6gh6xv886avs9knwg2",
+    "tokens_in": ["EBUD-d29cce", "HIT-3f109b"],
+    "tokens_out": ["LPEBUDHIT-2af936"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
     "name": "JEXchange: COMET/JEX",
     "sc_address": "erd1qqqqqqqqqqqqqpgqrrffy54xxsac3602s9cwqjayz3lsta3w6avs5uq8s8",
     "tokens_in": ["LPCOMETJEX-91c9b5"],
