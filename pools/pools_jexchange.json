@@ -168,6 +168,13 @@
     "type": "jexchange_lp_withdraw"
   },
   {
+    "name": "JEXchange: BOBER/PADAWAN",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqhv7hdq7fhuz6vn5t0f94fx8nz5celdpg6avs38q8vn",
+    "tokens_in": ["BOBER-9eb764", "PADAWAN-a17f58"],
+    "tokens_out": ["LPBOBERPAD-7ab819"],
+    "type": "jexchange_lp_deposit"
+  },
+  {
     "name": "JEXchange: USDC/USDT",
     "sc_address": "erd1qqqqqqqqqqqqqpgqahfmv4apudlzgawgcvp2zr65dtufqfmy6avsazkewu",
     "tokens_in": ["USDC-c76f1f", "USDT-f8c08c"],
