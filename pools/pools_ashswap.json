@@ -131,5 +131,12 @@
     "tokens_in": ["USDT-f8c08c", "WDAI-9eeb54", "JWLUSD-62939e"],
     "tokens_out": ["USDT-f8c08c", "WDAI-9eeb54", "JWLUSD-62939e"],
     "type": "ashswap_stablepool"
+  },
+  {
+    "name": "AshSwap: USDC/TAO",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqxn6hj5m9x33zuq0xynjkusd8tsz3u6a94fvsn2m2ry",
+    "tokens_in": ["USDC-c76f1f", "WTAO-4f5363"],
+    "tokens_out": ["USDC-c76f1f", "WTAO-4f5363"],
+    "type": "ashswap_v2"
   }
 ]
