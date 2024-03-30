@@ -6,7 +6,7 @@ Configuration of liquidity pools used in JEX DEX aggregator.
 
 # How to add a pool
 
-**Note that pools from JEXchangeDefi, xExchange, OneDex and VestaDEX are automatically added to the DEX aggregator.**
+**Note that pools from JEXchangeDefi, xExchange, OneDex, AshSwap and VestaDEX are automatically added to the DEX aggregator.**
 
 **No configuration is required for these pool.**
 
