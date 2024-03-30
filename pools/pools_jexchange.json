@@ -1,4 +1,18 @@
 [
+    {
+    "name": "JEXchange: PUSSY/EBUD",
+    "sc_address": "erd1qqqqqqqqqqqqqpgq27utwjgzs3em4jmgrqfgs99kg8dz5w9z6avsqajwnj",
+    "tokens_in": ["PUSSY-1a1c41", "EBUD-d29cce"],
+    "tokens_out": ["LPPUSSYEBU-4880d8"],
+    "type": "jexchange_lp_deposit"
+  },
+ {
+    "name": "JEXchange: EBUD/GREEN",
+    "sc_address": "erd1qqqqqqqqqqqqqpgqkckf9dl6v0v9zecel7dtsvrsr4qr4hy36avsm0hx8t",
+    "tokens_in": ["EBUD-d29cce", "GREEN-1c62ca"],
+    "tokens_out": ["LPEBUDGREE-2ec082"],
+    "type": "jexchange_lp_deposit"
+  },
   {
     "name": "JEXchange: COMET/JEX",
     "sc_address": "erd1qqqqqqqqqqqqqpgqrrffy54xxsac3602s9cwqjayz3lsta3w6avs5uq8s8",
