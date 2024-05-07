@@ -1,19 +1,5 @@
 [
   {
-    "name": "DX25: ASH/USDC",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
-    "tokens_in": ["ASH-a642d1", "USDC-c76f1f"],
-    "tokens_out": ["ASH-a642d1", "USDC-c76f1f"],
-    "type": "dx25"
-  },
-  {
-    "name": "DX25: EGLD/USDC",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
-    "tokens_in": ["WEGLD-bd4d79", "USDC-c76f1f"],
-    "tokens_out": ["WEGLD-bd4d79", "USDC-c76f1f"],
-    "type": "dx25"
-  },
-  {
     "name": "DX25: HSEGLD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["HSEGLD-c13a4e", "WEGLD-bd4d79"],
@@ -21,24 +7,10 @@
     "type": "dx25"
   },
   {
-    "name": "DX25: HTM/EGLD",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
-    "tokens_in": ["HTM-f51d55", "WEGLD-bd4d79"],
-    "tokens_out": ["HTM-f51d55", "WEGLD-bd4d79"],
-    "type": "dx25"
-  },
-  {
     "name": "DX25: MON/USDC",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["MON-58cc32", "USDT-f8c08c"],
     "tokens_out": ["MON-58cc32", "USDT-f8c08c"],
-    "type": "dx25"
-  },
-  {
-    "name": "DX25: RIDE/USDC",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
-    "tokens_in": ["RIDE-7d18e9", "USDC-c76f1f"],
-    "tokens_out": ["RIDE-7d18e9", "USDC-c76f1f"],
     "type": "dx25"
   },
   {
