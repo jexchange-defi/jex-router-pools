@@ -7,13 +7,6 @@
     "type": "dx25"
   },
   {
-    "name": "DX25: MON/USDC",
-    "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
-    "tokens_in": ["MON-58cc32", "USDT-f8c08c"],
-    "tokens_out": ["MON-58cc32", "USDT-f8c08c"],
-    "type": "dx25"
-  },
-  {
     "name": "DX25: SEGLD/EGLD",
     "sc_address": "erd1qqqqqqqqqqqqqpgqqc6w62sshakjk38lunc8w6f5m7rujkdgaehsdszqrg",
     "tokens_in": ["SEGLD-3ad2d0", "WEGLD-bd4d79"],
