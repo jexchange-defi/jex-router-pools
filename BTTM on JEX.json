@@ -1,0 +1,7 @@
+{
+  "name": "OneDex: BTTM/BTO",
+  "sc_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc",
+  "tokens_in": ["BTTM-79f56c", "BTO-264906"],
+  "tokens_out": ["BTO-264906", "BTTM-79f56c"],
+  "type": "onedex"
+}
