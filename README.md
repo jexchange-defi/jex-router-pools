@@ -28,6 +28,7 @@ A pool is a JSON structure composed of:
   - "hatom_money_market_redeem" = redeem from lending on Hatom
   - "jexchange" = JEXchange orderbook
   - "jexchange_lp" = JEXchange liquidity pools
+  - "jexchange_stablepool" = JEXchange stable pools
   - "onedex"
   - "vestadex"
   - "xexchange"
