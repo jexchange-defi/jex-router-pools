@@ -8,8 +8,6 @@
       "BNI-bb0a30",
       "BONEZ-ff9a73",
       "BTX-0f676d",
-      "C23-1325d3",
-      "DICE-9749cc",
       "EFTR-315177",
       "ENERGY-36fb1d",
       "ESSENCE-67531c",
@@ -27,8 +25,7 @@
       "TCL-fe459d",
       "TIME-84518f",
       "TOLKEN-a9eb7f",
-      "WHALE-b018f0",
-      "WWIF-84d002"
+      "WHALE-b018f0"
     ],
     "type": "jexchange"
   },
@@ -40,8 +37,6 @@
       "BNI-bb0a30",
       "BONEZ-ff9a73",
       "BTX-0f676d",
-      "C23-1325d3",
-      "DICE-9749cc",
       "EFTR-315177",
       "ENERGY-36fb1d",
       "ESSENCE-67531c",
@@ -59,8 +54,7 @@
       "TCL-fe459d",
       "TIME-84518f",
       "TOLKEN-a9eb7f",
-      "WHALE-b018f0",
-      "WWIF-84d002"
+      "WHALE-b018f0"
     ],
     "tokens_out": ["USDC-c76f1f", "USDT-f8c08c", "WEGLD-bd4d79"],
     "type": "jexchange"
