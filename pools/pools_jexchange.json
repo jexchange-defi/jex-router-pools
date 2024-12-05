@@ -4,6 +4,7 @@
     "sc_address": "erd1qqqqqqqqqqqqqpgqmmxzmktd09gq0hldtczerlv444ykt3pz6avsnys6m9",
     "tokens_in": ["USDC-c76f1f", "WEGLD-bd4d79"],
     "tokens_out": [
+      "A1X-0d446d",
       "BEAR-f9c271",
       "BTX-0f676d",
       "DKM-592719",
@@ -21,6 +22,7 @@
     "name": "JEXchange orderbook",
     "sc_address": "erd1qqqqqqqqqqqqqpgqmmxzmktd09gq0hldtczerlv444ykt3pz6avsnys6m9",
     "tokens_in": [
+      "A1X-0d446d",
       "BEAR-f9c271",
       "BTX-0f676d",
       "DKM-592719",
