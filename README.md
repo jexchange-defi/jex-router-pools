@@ -8,6 +8,8 @@ Configuration of liquidity pools used in JEX DEX aggregator.
 
 **Note that pools from JEXchangeDefi, xExchange, OneDex, AshSwap and VestaDEX are automatically added to the DEX aggregator.**
 
+**Hatom money markets are also automatically added to the DEX aggregator.**
+
 **No configuration is required for these pool.**
 
 Create a pull request on https://github.com/javier-nft/jex-router-pools with the following changes.
