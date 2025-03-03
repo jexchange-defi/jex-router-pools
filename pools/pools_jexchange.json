@@ -15,8 +15,7 @@
       "MAGIC-4798ea",
       "PELL-00610b",
       "PRICK-744592",
-      "TOLKEN-a9eb7f",
-      "USH-111e09"
+      "TOLKEN-a9eb7f"
     ],
     "type": "jexchange"
   },
@@ -35,8 +34,7 @@
       "MAGIC-4798ea",
       "PELL-00610b",
       "PRICK-744592",
-      "TOLKEN-a9eb7f",
-      "USH-111e09"
+      "TOLKEN-a9eb7f"
     ],
     "tokens_out": ["USDC-c76f1f", "WEGLD-bd4d79"],
     "type": "jexchange"
